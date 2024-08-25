@@ -427,3 +427,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Finnish News (Finland)
 *://*.finnishnews.fi/*
 
+# Florida Phoenix (USA)
+*://*.floridaphoenix.com/*
+
