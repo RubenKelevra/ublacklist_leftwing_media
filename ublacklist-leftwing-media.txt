@@ -1133,3 +1133,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Dworkin Report (USA)
 *://*.dworkinreport.com/*
 
+# The Florida Squeeze (USA)
+*://*.thefloridasqueeze.com/*
+
