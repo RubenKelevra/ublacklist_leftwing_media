@@ -986,3 +986,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Right Wing Watch (USA)
 *://*.rightwingwatch.org/*
 
+# Ring of Fire (USA)
+*://*.trofire.com/*
+
