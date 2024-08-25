@@ -1203,3 +1203,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Palestine Chronicle (USA)
 *://*.palestinechronicle.com/*
 
+# The People’s Dispatch (Unknown)
+*://*.peoplesdispatch.org/*
+
