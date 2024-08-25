@@ -9,3 +9,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # 350Africa.org (USA)
 *://*.350africa.org/*
 
+# 350 Aotearoa (USA)
+*://*.350.org.nz/*
+
