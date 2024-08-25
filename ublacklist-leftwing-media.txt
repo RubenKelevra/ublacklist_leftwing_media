@@ -1309,3 +1309,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # URL Media (USA)
 *://*.url-media.com/*
 
+# U.S. Right to Know (USA)
+*://*.usrtk.org/*
+
