@@ -1254,3 +1254,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Washington State Standard (USA)
 *://*.washingtonstatestandard.com/*
 
+# The Week (USA)
+*://*.theweek.com/*
+
