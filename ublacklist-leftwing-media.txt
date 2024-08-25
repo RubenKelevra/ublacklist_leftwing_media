@@ -697,3 +697,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Michigan Advance (USA)
 *://*.michiganadvance.com/*
 
+# Middle East Monitor (USA)
+*://*.middleeastmonitor.com/*
+
