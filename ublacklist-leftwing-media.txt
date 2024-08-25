@@ -385,3 +385,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # EgbertoWillies (USA)
 *://*.egbertowillies.com/*
 
+# Electoral-Vote.com (Netherlands)
+*://*.electoral-vote.com/*
+
