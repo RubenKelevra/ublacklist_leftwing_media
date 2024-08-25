@@ -454,3 +454,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # FStv (USA)
 *://*.freespeech.org/*
 
+# Future Forward USA PAC (USA)
+*://*.futureforwardusa.org/*
+
