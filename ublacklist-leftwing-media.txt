@@ -81,3 +81,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Anthropocene Magazine (USA)
 *://*.anthropocenemagazine.org/*
 
+# Arizona Mirror (USA)
+*://*.azmirror.com/*
+
