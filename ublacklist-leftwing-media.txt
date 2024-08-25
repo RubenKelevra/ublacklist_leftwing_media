@@ -120,3 +120,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Black Lives Matter (USA)
 *://*.blacklivesmatter.com/*
 
+# Black Main Street (USA)
+*://*.blackmainstreet.net/*
+
