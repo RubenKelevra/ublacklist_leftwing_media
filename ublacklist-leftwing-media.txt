@@ -421,3 +421,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Feminist Current (Canada)
 *://*.feministcurrent.com/*
 
+# Fifth Estate (USA)
+*://*.fifthestate.org/*
+
