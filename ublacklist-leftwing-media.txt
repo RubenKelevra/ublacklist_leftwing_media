@@ -636,3 +636,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # LEO Weekly (USA)
 *://*.leoweekly.com/*
 
+# LGBTQ Nation (USA)
+*://*.lgbtqnation.com/*
+
