@@ -45,3 +45,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Alabama Reflector (USA)
 *://*.alabamareflector.com/*
 
+# Alaska Beacon (USA)
+*://*.alaskabeacon.com/*
+
