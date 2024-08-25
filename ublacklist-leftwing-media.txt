@@ -557,3 +557,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Institute for New Economic Thinking (USA)
 *://*.ineteconomics.org/*
 
+# Institute for Policy Studies (USA)
+*://*.ips-dc.org/*
+
