@@ -228,3 +228,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Code Pink (USA)
 *://*.codepink.org/*
 
+# Colorado Newsline (USA)
+*://*.coloradonewsline.com/*
+
