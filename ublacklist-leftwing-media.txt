@@ -805,3 +805,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # NewsOne (USA)
 *://*.newsone.com/*
 
+# Nonprofit Quarterly (USA)
+*://*.nonprofitquarterly.org/*
+
