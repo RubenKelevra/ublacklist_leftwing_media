@@ -436,3 +436,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Foreign Policy Journal (USA)
 *://*.foreignpolicyjournal.com/*
 
+# Foreign Policy News (USA)
+*://*.foreignpolicynews.org/*
+
