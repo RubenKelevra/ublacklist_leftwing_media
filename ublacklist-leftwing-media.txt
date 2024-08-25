@@ -234,3 +234,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Colorado Times Recorder (USA)
 *://*.coloradotimesrecorder.com/*
 
+# ColorLines (USA)
+*://*.colorlines.com/*
+
