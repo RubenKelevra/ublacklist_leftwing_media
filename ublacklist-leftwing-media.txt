@@ -521,3 +521,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Hill Reporter (USA)
 *://*.hillreporter.com/*
 
+# Hope Not Hate (UK)
+*://*.hopenothate.org.uk/*
+
