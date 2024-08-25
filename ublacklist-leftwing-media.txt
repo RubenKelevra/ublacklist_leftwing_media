@@ -177,3 +177,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Center for American Progress (USA)
 *://*.americanprogress.org/*
 
+# Center for Biological Diversity (USA)
+*://*.biologicaldiversity.org/*
+
