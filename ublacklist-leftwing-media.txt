@@ -500,3 +500,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Green Left Weekly (Australia)
 *://*.greenleft.org.au/*
 
+# Greenlining Institute (USA)
+*://*.greenlining.org/*
+
