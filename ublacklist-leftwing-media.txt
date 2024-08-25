@@ -60,3 +60,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # AlterNet (USA)
 *://*.alternet.org/*
 
+# Amandla (South Africa)
+*://*.aidc.org.za/*
+
