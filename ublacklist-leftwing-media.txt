@@ -1333,3 +1333,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Washington Babylon (USA)
 *://*.washingtonbabylon.com/*
 
+# Washington Press (USA)
+*://*.washingtonpress.com/*
+
