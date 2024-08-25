@@ -1071,3 +1071,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Tennessee Holler (USA)
 *://*.tnholler.com/*
 
+# Tennessee Lookout (USA)
+*://*.tennesseelookout.com/*
+
