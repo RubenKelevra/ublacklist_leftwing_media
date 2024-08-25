@@ -415,3 +415,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Exposed by CMD (USA)
 *://*.exposedbycmd.org/*
 
+# FairPlanet (Germany)
+*://*.fairplanet.org/*
+
