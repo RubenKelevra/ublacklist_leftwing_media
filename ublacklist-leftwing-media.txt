@@ -255,3 +255,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Communist Party USA (USA)
 *://*.cpusa.org/*
 
+# CommonWealth Beacon (USA)
+*://*.commonwealthbeacon.org/*
+
