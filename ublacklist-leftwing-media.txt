@@ -503,3 +503,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Greenlining Institute (USA)
 *://*.greenlining.org/*
 
+# Guardian Liberty Voice (USA)
+*://*.guardianlv.com/*
+
