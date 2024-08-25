@@ -351,3 +351,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Democracy Now (USA)
 *://*.democracynow.org/*
 
+# Democratic Underground (USA)
+*://*.democraticunderground.com/*
+
