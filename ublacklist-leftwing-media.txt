@@ -102,3 +102,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Bay Area Reporter (USA)
 *://*.ebar.com/*
 
+# Being Liberal (USA)
+*://*.beingliberal.org/*
+
