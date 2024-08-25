@@ -222,3 +222,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Climate Justice Alliance (USA)
 *://*.climatejusticealliance.org/*
 
+# Coda Story (USA)
+*://*.codastory.com/*
+
