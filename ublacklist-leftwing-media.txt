@@ -126,3 +126,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Boing Boing (USA)
 *://*.boingboing.net/*
 
+# Bolde (USA)
+*://*.bolde.com/*
+
