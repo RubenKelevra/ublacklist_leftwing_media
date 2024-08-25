@@ -881,3 +881,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # People’s World (USA)
 *://*.peoplesworld.org/*
 
+# Physicians for a National Health Program (USA)
+*://*.pnhp.org/*
+
