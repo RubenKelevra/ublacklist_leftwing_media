@@ -590,3 +590,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Jewish Voice for Peace (USA)
 *://*.jewishvoiceforpeace.org/*
 
+# Jezebel (USA)
+*://*.jezebel.com/*
+
