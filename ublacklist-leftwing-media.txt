@@ -1206,3 +1206,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The People’s Dispatch (Unknown)
 *://*.peoplesdispatch.org/*
 
+# The Phnom Penh Post (Cambodia)
+*://*.phnompenhpost.com/*
+
