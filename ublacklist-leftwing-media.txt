@@ -545,3 +545,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Indivisible Movement (USA)
 *://*.indivisible.org/*
 
+# Inequality Media (USA)
+*://*.inequalitymedia.org/*
+
