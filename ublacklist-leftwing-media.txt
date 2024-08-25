@@ -751,3 +751,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Natural Resources Defense Council (USA)
 *://*.nrdc.org/*
 
+# NC Newsline (USA)
+*://*.ncnewsline.com/*
+
