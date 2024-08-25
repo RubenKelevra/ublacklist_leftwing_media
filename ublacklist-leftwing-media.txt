@@ -572,3 +572,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Intrepid Report (USA)
 *://*.intrepidreport.com/*
 
+# Iowa Capital Dispatch (USA)
+*://*.iowacapitaldispatch.com/*
+
