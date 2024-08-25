@@ -42,3 +42,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Aftonbladet (Sweden)
 *://*.aftonbladet.se/*
 
+# Alabama Reflector (USA)
+*://*.alabamareflector.com/*
+
