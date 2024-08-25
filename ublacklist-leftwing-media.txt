@@ -1148,3 +1148,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Gravel Institute (USA)
 *://*.gravelinstitute.org/*
 
+# The Immigrant Legal Resource Center (USA)
+*://*.ilrc.org/*
+
