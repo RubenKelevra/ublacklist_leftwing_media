@@ -473,3 +473,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Geopolitics Alert (USA)
 *://*.geopoliticsalert.com/*
 
+# Georgia Recorder (USA)
+*://*.georgiarecorder.com/*
+
