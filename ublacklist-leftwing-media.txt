@@ -445,3 +445,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Freedom From Religion Foundation (USA)
 *://*.ffrf.org/*
 
+# Freedom News and Journal (UK)
+*://*.freedomnews.org.uk/*
+
