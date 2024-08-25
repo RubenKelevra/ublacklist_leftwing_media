@@ -72,3 +72,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Americans United for Separation of Church and State (USA)
 *://*.au.org/*
 
+# Angry White Men (USA)
+*://*.angrywhitemen.org/*
+
