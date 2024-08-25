@@ -447,6 +447,18 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.electronicintifada.net/*
 
 # Elite Daily (USA)
+*://*.crunchbase.com/acquisition/dmg-media-acquires-elite-daily*
+*://*.crunchbase.com/organization/elite-daily*
+*://*.instagram.com/*elitedaily*
+*://*.tiktok.com/tag/elitedaily*
+*://*.twitter.com/EliteDaily*
+*://*.twitter.com/elitedaily*
+*://*.twitter.com/elitenewsdaily*
+*://*.x.com/EliteDaily*
+*://*.x.com/elitedaily*
+*://*.x.com/elitenewsdaily*
+*://*.youtube.com/*elitedaily*
+*://*.zoominfo.com/c/elite-daily/*
 *://*.elitedaily.com/*
 
 # ELLE Magazine (USA)
