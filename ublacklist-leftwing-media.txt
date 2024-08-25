@@ -527,3 +527,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Huffington Post (USA)
 *://*.huffpost.com/*
 
+# Human Rights Campaign (USA)
+*://*.hrc.org/*
+
