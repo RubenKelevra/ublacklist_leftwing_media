@@ -433,3 +433,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Food and Water Watch (USA)
 *://*.foodandwaterwatch.org/*
 
+# Foreign Policy Journal (USA)
+*://*.foreignpolicyjournal.com/*
+
