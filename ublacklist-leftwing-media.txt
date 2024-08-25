@@ -624,3 +624,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Left Voice (USA)
 *://*.leftvoice.org/*
 
+# Legal Reader (USA)
+*://*.legalreader.com/*
+
