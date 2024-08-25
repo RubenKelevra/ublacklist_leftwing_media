@@ -1160,3 +1160,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Lever (USA)
 *://*.levernews.com/*
 
+# The Lily (USA)
+*://*.thelily.com/*
+*://*.washingtonpost.com/gender-identity/*
+
