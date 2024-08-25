@@ -1136,3 +1136,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Florida Squeeze (USA)
 *://*.thefloridasqueeze.com/*
 
+# The Gaily Grind (USA)
+*://*.thegailygrind.com/*
+
