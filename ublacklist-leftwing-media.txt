@@ -920,3 +920,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Press Watch (USA)
 *://*.presswatchers.org/*
 
+# Pride Source (USA)
+*://*.pridesource.com/*
+
