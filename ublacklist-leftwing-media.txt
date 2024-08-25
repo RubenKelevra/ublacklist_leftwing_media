@@ -114,3 +114,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Black Agenda Report (USA)
 *://*.blackagendareport.com/*
 
+# Black America Web (USA)
+*://*.blackamericaweb.com/*
+
