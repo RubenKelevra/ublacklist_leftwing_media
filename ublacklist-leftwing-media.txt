@@ -712,3 +712,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Mississippi Free Press (USA)
 *://*.mississippifreepress.org/*
 
+# Missouri Independent (USA)
+*://*.missouriindependent.com/*
+
