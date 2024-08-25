@@ -409,3 +409,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Everyday Feminism (USA)
 *://*.everydayfeminism.com/*
 
+# Evonomics (USA)
+*://*.evonomics.com/*
+
