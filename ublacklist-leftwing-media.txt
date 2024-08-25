@@ -1164,3 +1164,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.thelily.com/*
 *://*.washingtonpost.com/gender-identity/*
 
+# The London Economic (USA)
+*://*.thelondoneconomic.com/*
+
