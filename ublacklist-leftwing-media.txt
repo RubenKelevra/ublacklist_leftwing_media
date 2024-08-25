@@ -479,3 +479,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Giffords Law Center to Prevent Gun Violence (USA)
 *://*.giffords.org/*
 
+# Gizmodo (USA)
+*://*.gizmodo.com/*
+
