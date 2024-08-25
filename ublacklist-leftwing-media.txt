@@ -1342,3 +1342,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Washington Report on Middle East Affairs (USA)
 *://*.wrmea.org/*
 
+# Wear Your Voice (USA)
+*://*.wearyourvoicemag.com/*
+*://*.teatroateatro.com/*
+
