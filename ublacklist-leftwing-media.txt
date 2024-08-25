@@ -1182,3 +1182,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Morning Star (UK)
 *://*.morningstaronline.co.uk/*
 
+# The Narwhal (Canada)
+*://*.thenarwhal.ca/*
+
