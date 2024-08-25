@@ -796,3 +796,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # News Corpse (USA)
 *://*.newscorpse.com/*
 
+# News from the States (USA)
+*://*.newsfromthestates.com/*
+
