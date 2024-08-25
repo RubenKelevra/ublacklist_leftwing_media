@@ -144,3 +144,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Brut.Media (France)
 *://*.brut.media/*
 
+# B’Tselem (Israel)
+*://*.btselem.org/*
+
