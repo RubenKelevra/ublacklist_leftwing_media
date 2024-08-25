@@ -1142,3 +1142,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The  Center (USA)
 *://*.gaycenter.org/*
 
+# The Good Men Project (USA)
+*://*.goodmenproject.com/*
+
