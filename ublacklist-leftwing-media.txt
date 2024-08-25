@@ -715,3 +715,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Missouri Independent (USA)
 *://*.missouriindependent.com/*
 
+# Modern Liberals (USA)
+*://*.modernliberals.com/*
+
