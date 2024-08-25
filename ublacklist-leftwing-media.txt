@@ -198,3 +198,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Chicago Reporter (USA)
 *://*.chicagoreporter.com/*
 
+# China Internet Information Center (China)
+*://*.china.org.cn/*
+
