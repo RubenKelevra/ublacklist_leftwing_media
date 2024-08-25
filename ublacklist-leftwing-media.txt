@@ -132,3 +132,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Boston Review (USA)
 *://*.bostonreview.net/*
 
+# Breakthrough News (USA)
+*://*.breakthroughnews.org/*
+
