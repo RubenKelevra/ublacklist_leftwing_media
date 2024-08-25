@@ -282,3 +282,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Crikey (Australia)
 *://*.crikey.com.au/*
 
+# CrimethInc (USA)
+*://*.crimethinc.com/*
+
