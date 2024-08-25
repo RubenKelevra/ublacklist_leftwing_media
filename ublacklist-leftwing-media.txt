@@ -1179,3 +1179,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Monthly (Australia)
 *://*.themonthly.com.au/*
 
+# The Morning Star (UK)
+*://*.morningstaronline.co.uk/*
+
