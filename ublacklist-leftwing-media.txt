@@ -105,3 +105,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Being Liberal (USA)
 *://*.beingliberal.org/*
 
+# BerkeleySide (USA)
+*://*.berkeleyside.org/*
+
