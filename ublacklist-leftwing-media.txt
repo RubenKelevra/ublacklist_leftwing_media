@@ -309,3 +309,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Daily Montanan (USA)
 *://*.dailymontanan.com/*
 
+# Daily News Bin (Unknown)
+*://*.dailynewsbin.com/*
+
