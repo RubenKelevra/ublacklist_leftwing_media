@@ -93,3 +93,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # AT Advocacy (USA)
 *://*.atadvocacy.com/*
 
+# AutoStraddle (USA)
+*://*.autostraddle.com/*
+
