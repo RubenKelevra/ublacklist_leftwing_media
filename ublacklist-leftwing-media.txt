@@ -1011,3 +1011,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Seventeen (USA)
 *://*.seventeen.com/*
 
+# Shadow Proof (USA)
+*://*.shadowproof.com/*
+
