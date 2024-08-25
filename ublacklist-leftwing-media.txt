@@ -1297,3 +1297,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Unicorn Riot (USA)
 *://*.unicornriot.ninja/*
 
+# UNRWA (Jordan)
+*://*.unrwa.org/*
+
