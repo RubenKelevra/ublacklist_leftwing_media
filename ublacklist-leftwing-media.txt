@@ -475,6 +475,16 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.erininthemorning.com/*
 
 # Esquire Magazine (USA)
+*://*.instagram.com/esquire*
+*://*.instagram.com/esquire.australia*
+*://*.pinterest.com/esquiremag/*
+*://*.twitter.com/EsquireUK*
+*://*.twitter.com/esquire*
+*://*.twitter.com/esquireuk*
+*://*.x.com/EsquireUK*
+*://*.x.com/esquire*
+*://*.x.com/esquireuk*
+*://*.youtube.com/user/EsquireMag*
 *://*.esquire.com/*
 
 # Euro-Med Human Rights Monitor (Switzerland)
