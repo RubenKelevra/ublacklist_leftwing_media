@@ -451,3 +451,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Front Page Live (USA)
 *://*.frontpageslive.com/*
 
+# FStv (USA)
+*://*.freespeech.org/*
+
