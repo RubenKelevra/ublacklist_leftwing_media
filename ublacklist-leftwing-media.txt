@@ -1145,3 +1145,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Good Men Project (USA)
 *://*.goodmenproject.com/*
 
+# The Gravel Institute (USA)
+*://*.gravelinstitute.org/*
+
