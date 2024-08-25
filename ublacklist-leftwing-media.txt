@@ -141,3 +141,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Brit + Co (USA)
 *://*.brit.co/*
 
+# Brut.Media (France)
+*://*.brut.media/*
+
