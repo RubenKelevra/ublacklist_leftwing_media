@@ -721,3 +721,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Monthly Review (USA)
 *://*.monthlyreview.org/*
 
+# MR Online (USA)
+*://*.mronline.org/*
+
