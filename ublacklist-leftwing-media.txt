@@ -1053,3 +1053,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # St. Louis Riverfront Times (USA)
 *://*.riverfronttimes.com/*
 
+# St. Pete for Peace (USA)
+*://*.stpete4peace.org/*
+
