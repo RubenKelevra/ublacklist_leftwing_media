@@ -288,3 +288,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Crooked Media (USA)
 *://*.crooked.com/*
 
+# Crooks and Liars (USA)
+*://*.crooksandliars.com/*
+
