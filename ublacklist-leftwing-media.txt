@@ -1245,3 +1245,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Voice UK (UK)
 *://*.voice-online.co.uk/*
 
+# The Walrus (Canada)
+*://*.thewalrus.ca/*
+
