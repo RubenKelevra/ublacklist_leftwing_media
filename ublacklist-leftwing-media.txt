@@ -1167,3 +1167,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The London Economic (USA)
 *://*.thelondoneconomic.com/*
 
+# The Maple (Canada)
+*://*.readthemaple.com/*
+
