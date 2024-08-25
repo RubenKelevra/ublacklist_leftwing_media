@@ -183,3 +183,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Center for Law and Social Policy (USA)
 *://*.clasp.org/*
 
+# Center for Media and Democracy (USA)
+*://*.prwatch.org/*
+
