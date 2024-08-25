@@ -1157,3 +1157,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Intellectualist (USA)
 *://*.mavenroundtable.io/*
 
+# The Lever (USA)
+*://*.levernews.com/*
+
