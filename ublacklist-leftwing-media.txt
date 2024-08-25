@@ -826,3 +826,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Ohio Capital-Journal (USA)
 *://*.ohiocapitaljournal.com/*
 
+# Oklahoma Voice (USA)
+*://*.oklahomavoice.com/*
+
