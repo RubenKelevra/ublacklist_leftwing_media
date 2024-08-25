@@ -666,3 +666,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Movement Advancement Project (USA)
 *://*.mapresearch.org/*
 
+# Marxists Internet Archive (USA)
+*://*.marxists.org/*
+
