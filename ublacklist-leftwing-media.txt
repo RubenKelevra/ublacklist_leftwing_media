@@ -995,3 +995,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Salon (USA)
 *://*.salon.com/*
 
+# San Antonio Current (USA)
+*://*.sacurrent.com/*
+
