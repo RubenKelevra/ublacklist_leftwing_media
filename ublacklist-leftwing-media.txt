@@ -252,3 +252,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Commune Magazine (USA)
 *://*.communemag.com/*
 
+# Communist Party USA (USA)
+*://*.cpusa.org/*
+
