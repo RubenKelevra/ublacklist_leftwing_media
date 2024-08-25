@@ -1194,3 +1194,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The New Civil Rights Movement (USA)
 *://*.thenewcivilrightsmovement.com/*
 
+# The New European (UK)
+*://*.theneweuropean.co.uk/*
+
