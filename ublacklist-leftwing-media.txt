@@ -814,3 +814,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Novara Media (UK)
 *://*.novaramedia.com/*
 
+# Now Magazine (Canada)
+*://*.nowtoronto.com/*
+
