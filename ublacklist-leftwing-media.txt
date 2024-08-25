@@ -318,3 +318,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Daily Sound and Fury (USA)
 *://*.dailysoundandfury.com/*
 
+# Dallas Voice (USA)
+*://*.dallasvoice.com/*
+
