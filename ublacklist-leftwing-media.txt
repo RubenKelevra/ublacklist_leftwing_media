@@ -575,3 +575,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Iowa Capital Dispatch (USA)
 *://*.iowacapitaldispatch.com/*
 
+# Iowa Starting Line (USA)
+*://*.iowastartingline.com/*
+
