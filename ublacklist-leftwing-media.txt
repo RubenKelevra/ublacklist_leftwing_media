@@ -935,3 +935,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Psyche (Australia)
 *://*.psyche.co/*
 
+# LittleSis.org (USA)
+*://*.littlesis.org/*
+
