@@ -971,3 +971,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Resolute Square (USA)
 *://*.resolutesquare.com/*
 
+# Revcom.us (USA)
+*://*.revcom.us/*
+
