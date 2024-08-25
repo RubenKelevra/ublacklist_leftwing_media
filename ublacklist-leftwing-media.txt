@@ -78,3 +78,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Anthropocene Alliance (USA)
 *://*.anthropocenealliance.org/*
 
+# Anthropocene Magazine (USA)
+*://*.anthropocenemagazine.org/*
+
