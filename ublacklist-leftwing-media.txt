@@ -1221,3 +1221,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Sierra Club (USA)
 *://*.sierraclub.org/*
 
+# The Solutions Project (USA)
+*://*.thesolutionsproject.org/*
+
