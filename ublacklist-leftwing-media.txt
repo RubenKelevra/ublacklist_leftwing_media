@@ -775,3 +775,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # New Republic (USA)
 *://*.newrepublic.com/*
 
+# New Statesman (UK)
+*://*.newstatesman.com/*
+
