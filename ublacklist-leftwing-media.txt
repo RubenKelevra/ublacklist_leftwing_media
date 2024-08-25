@@ -962,3 +962,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Refinery29 (USA)
 *://*.refinery29.com/*
 
+# Republic Report (USA)
+*://*.republicreport.org/*
+
