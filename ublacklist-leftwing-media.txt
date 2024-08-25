@@ -850,3 +850,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Out Magazine (USA)
 *://*.out.com/*
 
+# Oxfam America (USA)
+*://*.oxfamamerica.org/*
