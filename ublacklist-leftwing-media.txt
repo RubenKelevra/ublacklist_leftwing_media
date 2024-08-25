@@ -530,3 +530,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Human Rights Campaign (USA)
 *://*.hrc.org/*
 
+# Idaho Capital Sun (USA)
+*://*.idahocapitalsun.com/*
+
