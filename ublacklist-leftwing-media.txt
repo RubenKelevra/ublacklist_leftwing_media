@@ -246,3 +246,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Comic Sands (USA)
 *://*.comicsands.com/*
 
+# Common Dreams (USA)
+*://*.commondreams.org/*
+
