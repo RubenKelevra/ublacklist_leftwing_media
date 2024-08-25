@@ -872,3 +872,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.pfaw.org/*
 *://*.peoplefor.org/*
 
+# People Magazine (USA)
+*://*.people.com/*
+
