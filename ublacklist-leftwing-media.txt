@@ -312,3 +312,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Daily News Bin (Unknown)
 *://*.dailynewsbin.com/*
 
+# Daily Record (UK)
+*://*.dailyrecord.co.uk/*
+
