@@ -742,3 +742,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # National Immigration Law Center (USA)
 *://*.nilc.org/*
 
+# National Organization for Women (USA)
+*://*.now.org/*
+
