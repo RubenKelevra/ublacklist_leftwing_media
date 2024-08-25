@@ -457,3 +457,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Future Forward USA PAC (USA)
 *://*.futureforwardusa.org/*
 
+# Gawker (USA)
+*://*.gawker.com/*
+
