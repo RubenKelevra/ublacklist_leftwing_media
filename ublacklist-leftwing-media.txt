@@ -1230,3 +1230,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Stand (USA)
 *://*.thestand.org/*
 
+# The Straight Dope (USA)
+*://*.straightdope.com/*
+
