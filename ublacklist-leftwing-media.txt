@@ -1056,3 +1056,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # St. Pete for Peace (USA)
 *://*.stpete4peace.org/*
 
+# Stateline (USA)
+*://*.stateline.org/*
+
