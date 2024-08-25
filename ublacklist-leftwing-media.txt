@@ -1104,3 +1104,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Climate Reality Project (USA)
 *://*.climaterealityproject.org/*
 
+# The Cradle (USA)
+*://*.thecradle.co/*
+
