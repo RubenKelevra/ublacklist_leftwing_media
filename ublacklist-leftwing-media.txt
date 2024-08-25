@@ -1233,3 +1233,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Straight Dope (USA)
 *://*.straightdope.com/*
 
+# The Stranger (USA)
+*://*.thestranger.com/*
+
