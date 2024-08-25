@@ -135,3 +135,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Breakthrough News (USA)
 *://*.breakthroughnews.org/*
 
+# Briarpatch Magazine (Canada)
+*://*.briarpatchmagazine.com/*
+
