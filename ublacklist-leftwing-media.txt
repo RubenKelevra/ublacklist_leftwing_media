@@ -932,3 +932,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Project Censored (USA)
 *://*.projectcensored.org/*
 
+# Psyche (Australia)
+*://*.psyche.co/*
+
