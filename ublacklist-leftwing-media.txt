@@ -1121,3 +1121,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Daily Buzz (USA)
 *://*.the-daily.buzz/*
 
+# The Daily Vox (South Africa)
+*://*.thedailyvox.co.za/*
+
