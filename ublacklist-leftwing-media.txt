@@ -950,3 +950,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Reader Supported News (USA)
 *://*.rsn.org/*
 
+# Reading the Pictures (USA)
+*://*.readingthepictures.org/*
+
