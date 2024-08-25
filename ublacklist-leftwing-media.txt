@@ -875,3 +875,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # People Magazine (USA)
 *://*.people.com/*
 
+# People’s Policy Project (USA)
+*://*.peoplespolicyproject.org/*
+
