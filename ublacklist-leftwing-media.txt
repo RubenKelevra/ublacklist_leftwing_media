@@ -536,3 +536,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # In Defence of Marxism (UK)
 *://*.marxist.com/*
 
+# In These Times (USA)
+*://*.inthesetimes.com/*
+
