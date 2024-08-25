@@ -1170,3 +1170,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Maple (Canada)
 *://*.readthemaple.com/*
 
+# The Mary Sue (USA)
+*://*.themarysue.com/*
+
