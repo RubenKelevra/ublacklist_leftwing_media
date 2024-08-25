@@ -709,3 +709,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Minnesota Reformer (USA)
 *://*.minnesotareformer.com/*
 
+# Mississippi Free Press (USA)
+*://*.mississippifreepress.org/*
+
