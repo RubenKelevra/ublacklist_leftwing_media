@@ -442,3 +442,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # FreePress.org (USA)
 *://*.freepress.org/*
 
+# Freedom From Religion Foundation (USA)
+*://*.ffrf.org/*
+
