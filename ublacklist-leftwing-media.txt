@@ -615,3 +615,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # LA Weekly (USA)
 *://*.laweekly.com/*
 
+# The League of Conservation Voters (USA)
+*://*.lcv.org/*
+
