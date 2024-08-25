@@ -893,3 +893,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Political Research Associates (USA)
 *://*.politicalresearch.org/*
 
+# Political Tribune (USA)
+*://*.polinews.org/*
+
