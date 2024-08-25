@@ -1218,3 +1218,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Root (USA)
 *://*.theroot.com/*
 
+# The Sierra Club (USA)
+*://*.sierraclub.org/*
+
