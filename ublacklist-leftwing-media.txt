@@ -706,3 +706,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Milwaukee Independent (USA)
 *://*.milwaukeeindependent.com/*
 
+# Minnesota Reformer (USA)
+*://*.minnesotareformer.com/*
+
