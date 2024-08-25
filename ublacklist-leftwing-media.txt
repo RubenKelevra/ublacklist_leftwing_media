@@ -989,3 +989,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Ring of Fire (USA)
 *://*.trofire.com/*
 
+# Rolling Stone (USA)
+*://*.rollingstone.com/*
+
