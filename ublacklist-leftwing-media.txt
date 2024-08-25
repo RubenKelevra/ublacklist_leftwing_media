@@ -342,6 +342,12 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.dailydot.com/*
 
 # Daily Kos (USA)
+*://*.twitter.com/dailykos*
+*://*.x.com/dailykos*
+*://*.youtube.com/dailykos*
+*://podcasts.apple.com/*/podcast/*/id1549983077*
+*://podcasts.apple.com/*/podcast/daily-kos-the-brief/*
+*://podcasts.apple.com/*/podcast/daily-kos-the-brief/id1549983077*
 *://*.dailykos.com/*
 
 # Daily Montanan (USA)
