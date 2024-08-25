@@ -1251,3 +1251,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Washington Spectator (USA)
 *://*.washingtonspectator.org/*
 
+# Washington State Standard (USA)
+*://*.washingtonstatestandard.com/*
+
