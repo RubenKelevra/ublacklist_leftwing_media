@@ -39,3 +39,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Action Network (USA)
 *://*.actionnetwork.org/*
 
+# Aftonbladet (Sweden)
+*://*.aftonbladet.se/*
+
