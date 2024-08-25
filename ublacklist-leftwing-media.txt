@@ -524,3 +524,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Hope Not Hate (UK)
 *://*.hopenothate.org.uk/*
 
+# Huffington Post (USA)
+*://*.huffpost.com/*
+
