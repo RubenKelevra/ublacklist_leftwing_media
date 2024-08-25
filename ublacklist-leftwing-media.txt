@@ -37,6 +37,16 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.act.tv/*
 
 # Action Network (USA)
+*://*.crunchbase.com/organization/the-action-network*
+*://*.instagram.com/_u/actionnetworkhq*
+*://*.instagram.com/actionnetworkhq*
+*://*.twitter.com/ActionNetworkHQ*
+*://*.twitter.com/actionapp*
+*://*.twitter.com/actionnetworkhq*
+*://*.x.com/ActionNetworkHQ*
+*://*.x.com/actionapp*
+*://*.x.com/actionnetworkhq*
+*://*.youtube.com/theactionnetwork*
 *://*.actionnetwork.org/*
 
 # Aftonbladet (Sweden)
