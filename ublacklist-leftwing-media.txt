@@ -108,3 +108,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # BerkeleySide (USA)
 *://*.berkeleyside.org/*
 
+# BillMoyers.com (USA)
+*://*.billmoyers.com/*
+
