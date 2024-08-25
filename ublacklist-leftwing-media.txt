@@ -657,3 +657,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Mail & Guardian (South Africa)
 *://*.mg.co.za/*
 
+# Maine Beacon (USA)
+*://*.mainebeacon.com/*
+
