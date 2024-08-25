@@ -1130,3 +1130,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Dodo (USA)
 *://*.thedodo.com/*
 
+# The Dworkin Report (USA)
+*://*.dworkinreport.com/*
+
