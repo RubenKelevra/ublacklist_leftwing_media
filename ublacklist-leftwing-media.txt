@@ -279,3 +279,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # CounterVortex (USA)
 *://*.countervortex.org/*
 
+# Crikey (Australia)
+*://*.crikey.com.au/*
+
