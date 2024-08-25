@@ -754,3 +754,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # NC Newsline (USA)
 *://*.ncnewsline.com/*
 
+# Nebraska Examiner (USA)
+*://*.nebraskaexaminer.com/*
+
