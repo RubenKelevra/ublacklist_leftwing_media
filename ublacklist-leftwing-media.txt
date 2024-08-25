@@ -360,3 +360,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # DeSmogBlog (Canada)
 *://*.desmog.com/*
 
+# Detroit Metro Times (USA)
+*://*.metrotimes.com/*
+
