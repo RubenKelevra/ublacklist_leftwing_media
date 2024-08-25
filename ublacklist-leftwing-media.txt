@@ -648,3 +648,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Liberation News (USA)
 *://*.liberationnews.org/*
 
+# Little Green Footballs (USA)
+*://*.littlegreenfootballs.com/*
+
