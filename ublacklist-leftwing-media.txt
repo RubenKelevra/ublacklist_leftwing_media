@@ -1083,3 +1083,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The American Independent (USA)
 *://*.americanindependent.com/*
 
+# The American Prospect (USA)
+*://*.prospect.org/*
+
