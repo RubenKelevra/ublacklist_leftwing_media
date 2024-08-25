@@ -612,6 +612,14 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.haaretz.com/*
 
 # Harper’s Bazaar (USA)
+*://*.pinterest.com/fashionplusstylexo/harpers-bazaar*
+*://*.instagram.com/harpersbazaarus*
+*://*.instagram.com/updatesofkaia*
+*://*.twitter.com/harpersbazaarus*
+*://*.twitter.com/zayndailynews*
+*://*.x.com/harpersbazaarus*
+*://*.x.com/zayndailynews*
+*://*.zoominfo.com/c/harpers-bazaar/*
 *://*.harpersbazaar.com/*
 
 # Harvard International Review (USA)
