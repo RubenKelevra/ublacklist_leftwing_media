@@ -1035,3 +1035,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Source New Mexico (USA)
 *://*.sourcenm.com/*
 
+# SourceWatch (USA)
+*://*.sourcewatch.org/*
+
