@@ -373,3 +373,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.dream4america.org/*
 *://*.dreamforamerica.org/*
 
+# Drudge Retort (USA)
+*://*.drudge.com/*
+
