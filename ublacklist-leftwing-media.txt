@@ -1273,3 +1273,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # ThinkPol (Canada)
 *://*.thinkpol.ca/*
 
+# This Magazine (Canada)
+*://*.this.org/*
+
