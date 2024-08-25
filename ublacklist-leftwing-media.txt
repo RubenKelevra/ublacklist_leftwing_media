@@ -391,3 +391,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Electronic Intifada (USA)
 *://*.electronicintifada.net/*
 
+# Elite Daily (USA)
+*://*.elitedaily.com/*
+
