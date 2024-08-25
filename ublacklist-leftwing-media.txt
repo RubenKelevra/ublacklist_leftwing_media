@@ -953,3 +953,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Reading the Pictures (USA)
 *://*.readingthepictures.org/*
 
+# Real News Network (USA)
+*://*.therealnews.com/*
+
