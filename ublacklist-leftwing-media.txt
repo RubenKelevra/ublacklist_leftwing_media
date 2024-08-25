@@ -354,3 +354,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Democratic Underground (USA)
 *://*.democraticunderground.com/*
 
+# Deshabhimani (India)
+*://*.deshabhimani.com/*
+
