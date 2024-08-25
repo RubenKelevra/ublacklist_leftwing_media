@@ -1312,3 +1312,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # U.S. Right to Know (USA)
 *://*.usrtk.org/*
 
+# Utah News Dispatch (USA)
+*://*.utahnewsdispatch.com/*
+
