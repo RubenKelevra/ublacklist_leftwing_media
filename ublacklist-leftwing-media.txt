@@ -3,3 +3,6 @@ name: Left Wing Media
 description: Hides (most) Left Wing Media sites
 homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 ---
+# 350.org (USA)
+*://*.350.org/*
+
