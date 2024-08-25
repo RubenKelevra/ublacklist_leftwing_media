@@ -729,3 +729,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # MSNBC (USA)
 *://*.msnbc.com/*
+
+# Nation of Change (USA)
+*://*.nationofchange.org/*
+
