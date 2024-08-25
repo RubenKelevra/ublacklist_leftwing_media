@@ -204,3 +204,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Cincinnati CityBeat (USA)
 *://*.citybeat.com/*
 
+# Citizen Data (USA)
+*://*.citizendata.com/*
+
