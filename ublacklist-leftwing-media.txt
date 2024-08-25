@@ -926,3 +926,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Prism (USA)
 *://*.prismreports.org/*
 
+# Progressive Change Campaign Committee (USA)
+*://*.boldprogressives.org/*
+
