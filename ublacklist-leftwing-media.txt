@@ -448,3 +448,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Freedom News and Journal (UK)
 *://*.freedomnews.org.uk/*
 
+# Front Page Live (USA)
+*://*.frontpageslive.com/*
+
