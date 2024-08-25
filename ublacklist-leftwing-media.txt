@@ -914,3 +914,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Post Carbon Institute (USA)
 *://*.postcarbon.org/*
 
+# Press Progress (Canada)
+*://*.pressprogress.ca/*
+
