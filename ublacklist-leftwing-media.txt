@@ -1077,3 +1077,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The 19th News (USA)
 *://*.19thnews.org/*
 
+# The Advocate (USA)
+*://*.advocate.com/*
+
