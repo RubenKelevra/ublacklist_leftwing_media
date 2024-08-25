@@ -333,3 +333,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Deadspin (USA)
 *://*.deadspin.com/*
 
+# Defend Democracy Press (Greece)
+*://*.defenddemocracy.press/*
+
