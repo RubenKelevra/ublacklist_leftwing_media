@@ -336,3 +336,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Defend Democracy Press (Greece)
 *://*.defenddemocracy.press/*
 
+# Democracy Chronicles (USA)
+*://*.democracychronicles.org/*
