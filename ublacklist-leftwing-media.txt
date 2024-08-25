@@ -276,3 +276,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # CounterPunch (USA)
 *://*.counterpunch.org/*
 
+# CounterVortex (USA)
+*://*.countervortex.org/*
+
