@@ -1285,3 +1285,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Truthdig (USA)
 *://*.truthdig.com/*
 
+# TheTruth.com (USA)
+*://*.thetruth.com/*
+
