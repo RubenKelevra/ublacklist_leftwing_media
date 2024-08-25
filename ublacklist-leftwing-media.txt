@@ -669,3 +669,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Marxists Internet Archive (USA)
 *://*.marxists.org/*
 
+# Mashable (USA)
+*://*.mashable.com/*
+
