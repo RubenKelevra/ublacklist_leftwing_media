@@ -1038,3 +1038,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # SourceWatch (USA)
 *://*.sourcewatch.org/*
 
+# South Carolina Daily Gazette (USA)
+*://*.scdailygazette.com/*
+
