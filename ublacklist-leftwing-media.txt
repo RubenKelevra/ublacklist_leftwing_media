@@ -1306,3 +1306,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Upworthy (USA)
 *://*.upworthy.com/*
 
+# URL Media (USA)
+*://*.url-media.com/*
+
