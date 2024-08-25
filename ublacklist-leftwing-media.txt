@@ -847,3 +847,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Orlando Weekly (USA)
 *://*.orlandoweekly.com/*
 
+# Out Magazine (USA)
+*://*.out.com/*
+
