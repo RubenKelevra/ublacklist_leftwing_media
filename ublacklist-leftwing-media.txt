@@ -584,3 +584,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Jacobin (USA)
 *://*.jacobin.com/*
 
+# Jewish Currents (USA)
+*://*.jewishcurrents.org/*
+
