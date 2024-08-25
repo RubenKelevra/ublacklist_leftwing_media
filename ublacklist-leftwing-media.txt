@@ -983,3 +983,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Rhode Island Current (USA)
 *://*.rhodeislandcurrent.com/*
 
+# Right Wing Watch (USA)
+*://*.rightwingwatch.org/*
+
