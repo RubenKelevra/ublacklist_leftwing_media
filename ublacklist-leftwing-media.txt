@@ -170,6 +170,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.bust.com/*
 
 # Call to Activism (USA)
+*://*.instagram.com/calltoactivism*
+*://*.twitter.com/calltoactivism*
+*://*.x.com/calltoactivism*
 *://*.calltoactivism.com/*
 
 # Canada Fact Check (Canada)
