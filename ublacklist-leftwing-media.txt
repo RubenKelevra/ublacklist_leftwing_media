@@ -219,3 +219,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Climate Home News (UK)
 *://*.climatechangenews.com/*
 
+# Climate Justice Alliance (USA)
+*://*.climatejusticealliance.org/*
+
