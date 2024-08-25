@@ -956,3 +956,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Real News Network (USA)
 *://*.therealnews.com/*
 
+# Red Pepper (UK)
+*://*.redpepper.org.uk/*
+
