@@ -1236,3 +1236,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Stranger (USA)
 *://*.thestranger.com/*
 
+# The Texas Observer (USA)
+*://*.texasobserver.org/*
+
