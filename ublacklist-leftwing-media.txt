@@ -748,3 +748,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # National Women’s Law Center (USA)
 *://*.nwlc.org/*
 
+# Natural Resources Defense Council (USA)
+*://*.nrdc.org/*
+
