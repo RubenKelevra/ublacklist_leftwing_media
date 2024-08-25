@@ -1176,3 +1176,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Militant (USA)
 *://*.themilitant.com/*
 
+# The Monthly (Australia)
+*://*.themonthly.com.au/*
+
