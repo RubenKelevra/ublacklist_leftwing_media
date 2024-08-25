@@ -159,3 +159,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Canadian Anti-Hate Network (Canada)
 *://*.antihate.ca/*
 
+# Canadian Dimension (Canada)
+*://*.canadiandimension.com/*
+
