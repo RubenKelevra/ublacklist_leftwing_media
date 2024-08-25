@@ -832,3 +832,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # OKO.Press (Poland)
 *://*.oko.press/*
 
+# One Green Planet (USA)
+*://*.onegreenplanet.org/*
+
