@@ -1004,3 +1004,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Scary Mommy (USA)
 *://*.scarymommy.com/*
 
+# Second Nexus (USA)
+*://*.secondnexus.com/*
+*://*.comicsands.com/*
+
