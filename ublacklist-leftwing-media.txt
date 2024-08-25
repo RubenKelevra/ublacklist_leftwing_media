@@ -357,3 +357,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Deshabhimani (India)
 *://*.deshabhimani.com/*
 
+# DeSmogBlog (Canada)
+*://*.desmog.com/*
+
