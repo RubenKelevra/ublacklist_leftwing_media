@@ -225,3 +225,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Coda Story (USA)
 *://*.codastory.com/*
 
+# Code Pink (USA)
+*://*.codepink.org/*
+
