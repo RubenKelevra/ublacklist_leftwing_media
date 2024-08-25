@@ -675,3 +675,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Media Matters (USA)
 *://*.mediamatters.org/*
 
+# Mediaite (USA)
+*://*.mediaite.com/*
+
