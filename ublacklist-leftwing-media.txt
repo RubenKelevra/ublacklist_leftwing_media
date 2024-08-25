@@ -165,3 +165,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Capital & Main (USA)
 *://*.capitalandmain.com/*
 
+# Capitol News Illinois (USA)
+*://*.capitolnewsillinois.com/*
+
