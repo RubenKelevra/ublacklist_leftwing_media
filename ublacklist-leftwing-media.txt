@@ -210,3 +210,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Civiqs (USA)
 *://*.civiqs.com/*
 
+# Cleveland Scene (USA)
+*://*.clevescene.com/*
+
