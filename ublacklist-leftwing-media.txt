@@ -117,3 +117,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Black America Web (USA)
 *://*.blackamericaweb.com/*
 
+# Black Lives Matter (USA)
+*://*.blacklivesmatter.com/*
+
