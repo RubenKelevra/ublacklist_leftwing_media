@@ -1001,3 +1001,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # San Francisco Bay View (USA)
 *://*.sfbayview.com/*
 
+# Scary Mommy (USA)
+*://*.scarymommy.com/*
+
