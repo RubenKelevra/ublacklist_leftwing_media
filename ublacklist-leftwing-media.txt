@@ -66,3 +66,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # American Bridge 21st Century (USA)
 *://*.americanbridgepac.org/*
 
+# American Oversight (USA)
+*://*.americanoversight.org/*
+
