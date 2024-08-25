@@ -802,3 +802,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # NewsHounds (USA)
 *://*.newshounds.us/*
 
+# NewsOne (USA)
+*://*.newsone.com/*
+
