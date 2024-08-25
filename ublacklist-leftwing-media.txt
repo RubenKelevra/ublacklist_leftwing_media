@@ -460,3 +460,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Gawker (USA)
 *://*.gawker.com/*
 
+# Gay City News (USA)
+*://*.gaycitynews.com/*
+
