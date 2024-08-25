@@ -905,3 +905,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Popular Information (USA)
 *://*.popular.info/*
 
+# Popular Resistance (USA)
+*://*.popularresistance.org/*
+
