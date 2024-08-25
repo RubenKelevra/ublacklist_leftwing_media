@@ -627,3 +627,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Legal Reader (USA)
 *://*.legalreader.com/*
 
+# Le Média (France)
+*://*.lemediatv.fr/*
+
