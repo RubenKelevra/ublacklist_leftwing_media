@@ -694,3 +694,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Miami New Times (USA)
 *://*.miaminewtimes.com/*
 
+# Michigan Advance (USA)
+*://*.michiganadvance.com/*
+
