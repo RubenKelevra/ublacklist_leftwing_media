@@ -560,3 +560,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Institute for Policy Studies (USA)
 *://*.ips-dc.org/*
 
+# International Policy Digest (USA)
+*://*.intpolicydigest.org/*
+
