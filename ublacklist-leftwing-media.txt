@@ -150,3 +150,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Bust Magazine (USA)
 *://*.bust.com/*
 
+# Call to Activism (USA)
+*://*.calltoactivism.com/*
+
