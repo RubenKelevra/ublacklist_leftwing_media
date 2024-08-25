@@ -1023,3 +1023,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Sludge (USA)
 *://*.readsludge.com/*
 
+# Smirking Chimp (USA)
+*://*.smirkingchimp.com/*
+
