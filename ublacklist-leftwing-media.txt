@@ -1139,3 +1139,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Gaily Grind (USA)
 *://*.thegailygrind.com/*
 
+# The  Center (USA)
+*://*.gaycenter.org/*
+
