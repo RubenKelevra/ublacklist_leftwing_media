@@ -681,3 +681,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Meduza (Latvia)
 *://*.meduza.io/*
 
+# MeidasTouch (USA)
+*://*.meidastouch.com/*
+*://*.meidasnews.com/*
+
