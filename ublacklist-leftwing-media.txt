@@ -285,3 +285,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # CrimethInc (USA)
 *://*.crimethinc.com/*
 
+# Crooked Media (USA)
+*://*.crooked.com/*
+
