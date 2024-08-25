@@ -189,3 +189,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Center for a Stateless Society (USA)
 *://*.c4ss.org/*
 
+# Change Research (USA)
+*://*.changeresearch.com/*
+
