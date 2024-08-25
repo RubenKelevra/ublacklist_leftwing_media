@@ -1044,3 +1044,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # South Dakota Searchlight (USA)
 *://*.southdakotasearchlight.com/*
 
+# Southern Poverty Law Center (USA)
+*://*.splcenter.org/*
+
