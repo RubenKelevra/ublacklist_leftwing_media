@@ -162,3 +162,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Canadian Dimension (Canada)
 *://*.canadiandimension.com/*
 
+# Capital & Main (USA)
+*://*.capitalandmain.com/*
+
