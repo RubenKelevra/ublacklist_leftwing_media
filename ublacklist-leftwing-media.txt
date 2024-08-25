@@ -1279,3 +1279,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Towleroad (USA)
 *://*.towleroad.com/*
 
+# TreeHugger (USA)
+*://*.treehugger.com/*
+
