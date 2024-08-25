@@ -216,3 +216,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # CLIMA Fund (USA)
 *://*.climasolutions.org/*
 
+# Climate Home News (UK)
+*://*.climatechangenews.com/*
+
