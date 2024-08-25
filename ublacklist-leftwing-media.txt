@@ -757,3 +757,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Nebraska Examiner (USA)
 *://*.nebraskaexaminer.com/*
 
+# Neues Deutschland (Germany)
+*://*.nd-aktuell.de/*
+
