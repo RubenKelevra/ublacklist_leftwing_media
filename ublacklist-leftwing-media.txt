@@ -1029,3 +1029,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Socialist Standard (UK)
 *://*.worldsocialism.org/*
 
+# SocialistWorker.org (USA)
+*://*.socialistworker.org/*
+
