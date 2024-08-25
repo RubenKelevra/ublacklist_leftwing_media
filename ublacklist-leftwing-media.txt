@@ -406,3 +406,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Euro-Med Human Rights Monitor (Switzerland)
 *://*.euromedmonitor.org/*
 
+# Everyday Feminism (USA)
+*://*.everydayfeminism.com/*
+
