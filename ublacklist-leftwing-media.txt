@@ -123,3 +123,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Black Main Street (USA)
 *://*.blackmainstreet.net/*
 
+# Boing Boing (USA)
+*://*.boingboing.net/*
+
