@@ -403,3 +403,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Esquire Magazine (USA)
 *://*.esquire.com/*
 
+# Euro-Med Human Rights Monitor (Switzerland)
+*://*.euromedmonitor.org/*
+
