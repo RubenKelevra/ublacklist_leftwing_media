@@ -1300,3 +1300,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # UNRWA (Jordan)
 *://*.unrwa.org/*
 
+# Uproxx (USA)
+*://*.uproxx.com/*
+
