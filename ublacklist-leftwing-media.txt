@@ -388,3 +388,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Electoral-Vote.com (Netherlands)
 *://*.electoral-vote.com/*
 
+# Electronic Intifada (USA)
+*://*.electronicintifada.net/*
+
