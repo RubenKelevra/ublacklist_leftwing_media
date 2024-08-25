@@ -977,3 +977,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Revolutionary Communists of America (USA)
 *://*.communistusa.org/*
 
+# Rewire News Group (USA)
+*://*.rewirenewsgroup.com/*
+
