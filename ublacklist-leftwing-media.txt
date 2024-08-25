@@ -551,3 +551,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Informed Comment (USA)
 *://*.juancole.com/*
 
+# Inkstick Media (USA)
+*://*.inkstickmedia.com/*
+
