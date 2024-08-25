@@ -1248,3 +1248,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Walrus (Canada)
 *://*.thewalrus.ca/*
 
+# The Washington Spectator (USA)
+*://*.washingtonspectator.org/*
+
