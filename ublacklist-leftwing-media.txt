@@ -823,3 +823,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Occupy.com (USA)
 *://*.occupy.com/*
 
+# Ohio Capital-Journal (USA)
+*://*.ohiocapitaljournal.com/*
+
