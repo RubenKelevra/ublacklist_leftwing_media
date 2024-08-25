@@ -965,3 +965,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Republic Report (USA)
 *://*.republicreport.org/*
 
+# Resilience (USA)
+*://*.resilience.org/*
+
