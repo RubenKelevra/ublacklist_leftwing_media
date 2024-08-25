@@ -466,3 +466,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Gay Star News (UK)
 *://*.gaystarnews.com/*
 
+# Gay Times (UK)
+*://*.gaytimes.co.uk/*
+*://*.gaytimes.com/*
+
