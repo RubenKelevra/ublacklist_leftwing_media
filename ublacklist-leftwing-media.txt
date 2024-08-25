@@ -1107,3 +1107,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Cradle (USA)
 *://*.thecradle.co/*
 
+# The Cut (USA)
+*://*.thecut.com/*
+
