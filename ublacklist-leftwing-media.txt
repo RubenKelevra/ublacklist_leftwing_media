@@ -69,3 +69,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # American Oversight (USA)
 *://*.americanoversight.org/*
 
+# Americans United for Separation of Church and State (USA)
+*://*.au.org/*
+
