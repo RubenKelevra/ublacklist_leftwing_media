@@ -569,3 +569,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # International Viewpoint (UK)
 *://*.internationalviewpoint.org/*
 
+# Intrepid Report (USA)
+*://*.intrepidreport.com/*
+
