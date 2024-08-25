@@ -264,3 +264,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Cop Block (USA)
 *://*.copblock.org/*
 
+# Cosmopolitan (USA)
+*://*.cosmopolitan.com/*
+
