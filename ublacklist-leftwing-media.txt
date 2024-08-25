@@ -136,6 +136,13 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.blackmainstreet.net/*
 
 # Boing Boing (USA)
+*://*.crunchbase.com/organization/boingboing-net/*
+*://*.instagram.com/boingboing/*
+*://*.twitter.com/boingboing*
+*://*.x.com/boingboing*
+*://*.youtube.com/boingboingvideo*
+*://*.zoominfo.com/c/boing-boing-stickers/*
+*://*.zoominfo.com/c/boing-boing/*
 *://*.boingboing.net/*
 
 # Bolde (USA)
