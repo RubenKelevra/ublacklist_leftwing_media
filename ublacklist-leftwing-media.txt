@@ -630,3 +630,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Le Média (France)
 *://*.lemediatv.fr/*
 
+# Le Monde Diplomatique (France)
+*://*.monde-diplomatique.fr/*
+
