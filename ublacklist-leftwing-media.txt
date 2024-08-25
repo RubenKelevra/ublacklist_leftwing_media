@@ -249,3 +249,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Common Dreams (USA)
 *://*.commondreams.org/*
 
+# Commune Magazine (USA)
+*://*.communemag.com/*
+
