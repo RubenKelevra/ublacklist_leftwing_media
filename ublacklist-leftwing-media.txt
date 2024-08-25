@@ -1315,3 +1315,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Utah News Dispatch (USA)
 *://*.utahnewsdispatch.com/*
 
+# Vanity Fair (USA)
+*://*.vanityfair.com/*
+
