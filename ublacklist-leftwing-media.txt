@@ -727,3 +727,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Ms. Magazine (USA)
 *://*.msmagazine.com/*
 
+# MSNBC (USA)
+*://*.msnbc.com/*
