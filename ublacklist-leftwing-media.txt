@@ -186,3 +186,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Center for Media and Democracy (USA)
 *://*.prwatch.org/*
 
+# Center for a Stateless Society (USA)
+*://*.c4ss.org/*
+
