@@ -330,3 +330,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # DeadState (USA)
 *://*.deadstate.org/*
 
+# Deadspin (USA)
+*://*.deadspin.com/*
+
