@@ -554,3 +554,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Inkstick Media (USA)
 *://*.inkstickmedia.com/*
 
+# Institute for New Economic Thinking (USA)
+*://*.ineteconomics.org/*
+
