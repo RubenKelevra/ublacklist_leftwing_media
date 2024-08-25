@@ -231,3 +231,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Colorado Newsline (USA)
 *://*.coloradonewsline.com/*
 
+# Colorado Times Recorder (USA)
+*://*.coloradotimesrecorder.com/*
+
