@@ -1261,3 +1261,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.worldcantwait.net/*
 *://*.worldcantwait.org/*
 
+# TheGrio (USA)
+*://*.thegrio.com/*
+
