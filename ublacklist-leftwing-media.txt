@@ -300,3 +300,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Daily Beast (USA)
 *://*.thedailybeast.com/*
 
+# Daily Dot (USA)
+*://*.dailydot.com/*
+
