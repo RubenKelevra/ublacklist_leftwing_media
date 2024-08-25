@@ -315,3 +315,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Daily Record (UK)
 *://*.dailyrecord.co.uk/*
 
+# Daily Sound and Fury (USA)
+*://*.dailysoundandfury.com/*
+
