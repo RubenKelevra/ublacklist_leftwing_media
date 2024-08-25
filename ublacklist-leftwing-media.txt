@@ -1062,3 +1062,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Sunrise Movement (USA)
 *://*.sunrisemovement.org/*
 
+# Talking Points Memo (USA)
+*://*.talkingpointsmemo.com/*
+
