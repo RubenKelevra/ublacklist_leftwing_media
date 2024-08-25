@@ -890,3 +890,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # PinkNews (UK)
 *://*.thepinknews.com/*
 
+# Political Research Associates (USA)
+*://*.politicalresearch.org/*
+
