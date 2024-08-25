@@ -947,3 +947,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Raw Story (USA)
 *://*.rawstory.com/*
 
+# Reader Supported News (USA)
+*://*.rsn.org/*
+
