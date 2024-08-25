@@ -348,3 +348,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Democracy Journal (USA)
 *://*.democracyjournal.org/*
 
+# Democracy Now (USA)
+*://*.democracynow.org/*
+
