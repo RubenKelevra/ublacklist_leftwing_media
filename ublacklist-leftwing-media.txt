@@ -929,3 +929,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Progressive Change Campaign Committee (USA)
 *://*.boldprogressives.org/*
 
+# Project Censored (USA)
+*://*.projectcensored.org/*
+
