@@ -718,3 +718,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Modern Liberals (USA)
 *://*.modernliberals.com/*
 
+# Monthly Review (USA)
+*://*.monthlyreview.org/*
+
