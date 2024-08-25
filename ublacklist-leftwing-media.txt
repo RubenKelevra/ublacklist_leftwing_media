@@ -1303,3 +1303,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Uproxx (USA)
 *://*.uproxx.com/*
 
+# Upworthy (USA)
+*://*.upworthy.com/*
+
