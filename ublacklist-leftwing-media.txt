@@ -974,3 +974,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Revcom.us (USA)
 *://*.revcom.us/*
 
+# Revolutionary Communists of America (USA)
+*://*.communistusa.org/*
+
