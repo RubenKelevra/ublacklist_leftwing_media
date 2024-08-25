@@ -344,3 +344,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Democracy Guardian (USA)
 *://*.democracyguardian.com/*
+
+# Democracy Journal (USA)
+*://*.democracyjournal.org/*
+
