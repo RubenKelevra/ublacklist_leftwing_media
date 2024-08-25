@@ -21,3 +21,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # 350 Japan (USA)
 *://*.world.350.org/*
 
+# 350 Pilipinas (USA)
+*://*.world.350.org/*
+
