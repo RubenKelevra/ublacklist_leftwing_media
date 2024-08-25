@@ -817,3 +817,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Now Magazine (Canada)
 *://*.nowtoronto.com/*
 
+# Oaklandside (USA)
+*://*.oaklandside.org/*
+
