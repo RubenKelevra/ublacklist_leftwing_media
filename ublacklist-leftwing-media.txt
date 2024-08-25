@@ -1124,3 +1124,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Daily Vox (South Africa)
 *://*.thedailyvox.co.za/*
 
+# The Democratic Hub (USA)
+*://*.democratichub.com/*
+
