@@ -1050,3 +1050,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Spotlight Delaware (USA)
 *://*.spotlightdelaware.org/*
 
+# St. Louis Riverfront Times (USA)
+*://*.riverfronttimes.com/*
+
