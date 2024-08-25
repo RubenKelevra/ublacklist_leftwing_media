@@ -1059,3 +1059,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Stateline (USA)
 *://*.stateline.org/*
 
+# Sunrise Movement (USA)
+*://*.sunrisemovement.org/*
+
