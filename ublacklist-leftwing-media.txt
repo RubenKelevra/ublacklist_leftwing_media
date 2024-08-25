@@ -129,3 +129,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Bolde (USA)
 *://*.bolde.com/*
 
+# Boston Review (USA)
+*://*.bostonreview.net/*
+
