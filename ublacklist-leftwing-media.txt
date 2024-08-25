@@ -566,3 +566,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # International Socialism Journal (UK)
 *://*.isj.org.uk/*
 
+# International Viewpoint (UK)
+*://*.internationalviewpoint.org/*
+
