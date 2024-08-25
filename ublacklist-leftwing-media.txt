@@ -485,3 +485,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # GLAAD (USA)
 *://*.glaad.org/*
 
+# Global Voices (USA)
+*://*.globalvoices.org/*
+
