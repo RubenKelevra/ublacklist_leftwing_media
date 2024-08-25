@@ -87,3 +87,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Arkansas Advocate (USA)
 *://*.arkansasadvocate.com/*
 
+# Attack The System (USA)
+*://*.attackthesystem.com/*
+
