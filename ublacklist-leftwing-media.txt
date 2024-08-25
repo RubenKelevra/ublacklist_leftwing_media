@@ -838,3 +838,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # OpEdNews (USA)
 *://*.opednews.com/*
 
+# Open Society Foundations (USA)
+*://*.opensocietyfoundations.org/*
+
