@@ -1008,3 +1008,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.secondnexus.com/*
 *://*.comicsands.com/*
 
+# Seventeen (USA)
+*://*.seventeen.com/*
+
