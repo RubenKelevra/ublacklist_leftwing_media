@@ -1215,3 +1215,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Progressive Populist (USA)
 *://*.populist.com/*
 
+# The Root (USA)
+*://*.theroot.com/*
+
