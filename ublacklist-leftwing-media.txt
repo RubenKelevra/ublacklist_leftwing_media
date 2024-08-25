@@ -938,3 +938,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # LittleSis.org (USA)
 *://*.littlesis.org/*
 
+# Queerty (USA)
+*://*.queerty.com/*
+
