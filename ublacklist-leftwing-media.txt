@@ -542,3 +542,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Independent Florida Alligator (USA)
 *://*.alligator.org/*
 
+# Indivisible Movement (USA)
+*://*.indivisible.org/*
+
