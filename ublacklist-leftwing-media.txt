@@ -685,3 +685,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.meidastouch.com/*
 *://*.meidasnews.com/*
 
+# Metro Weekly (USA)
+*://*.metroweekly.com/*
+
