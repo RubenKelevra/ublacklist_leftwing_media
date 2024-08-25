@@ -491,3 +491,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Good Magazine (USA)
 *://*.good.is/*
 
+# GQ Magazine (USA)
+*://*.gq.com/*
+
