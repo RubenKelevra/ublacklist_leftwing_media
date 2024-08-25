@@ -1026,3 +1026,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Smirking Chimp (USA)
 *://*.smirkingchimp.com/*
 
+# Socialist Standard (UK)
+*://*.worldsocialism.org/*
+
