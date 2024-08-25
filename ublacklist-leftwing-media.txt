@@ -509,3 +509,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Haaretz (Israel)
 *://*.haaretz.com/*
 
+# Harper’s Bazaar (USA)
+*://*.harpersbazaar.com/*
+
