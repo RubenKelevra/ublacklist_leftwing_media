@@ -703,3 +703,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Middletown Media (USA)
 *://*.muncievoice.com/*
 
+# Milwaukee Independent (USA)
+*://*.milwaukeeindependent.com/*
+
