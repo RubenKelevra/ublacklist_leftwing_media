@@ -1191,3 +1191,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The National Memo (USA)
 *://*.nationalmemo.com/*
 
+# The New Civil Rights Movement (USA)
+*://*.thenewcivilrightsmovement.com/*
+
