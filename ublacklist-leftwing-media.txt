@@ -171,3 +171,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Care2 (USA)
 *://*.care2.com/*
 
+# Ceasefire Magazine (UK)
+*://*.ceasefiremagazine.co.uk/*
+
