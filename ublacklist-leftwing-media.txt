@@ -201,3 +201,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # China Internet Information Center (China)
 *://*.china.org.cn/*
 
+# Cincinnati CityBeat (USA)
+*://*.citybeat.com/*
+
