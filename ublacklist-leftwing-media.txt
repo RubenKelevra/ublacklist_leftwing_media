@@ -6,3 +6,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # 350.org (USA)
 *://*.350.org/*
 
+# 350Africa.org (USA)
+*://*.350africa.org/*
+
