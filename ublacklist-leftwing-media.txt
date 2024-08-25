@@ -820,3 +820,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Oaklandside (USA)
 *://*.oaklandside.org/*
 
+# Occupy.com (USA)
+*://*.occupy.com/*
+
