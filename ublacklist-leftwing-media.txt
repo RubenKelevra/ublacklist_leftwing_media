@@ -1373,3 +1373,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # WyoFile (USA)
 *://*.wyofile.com/*
 
+# Xtra Magazine (Canada)
+*://*.xtramagazine.com/*
+
