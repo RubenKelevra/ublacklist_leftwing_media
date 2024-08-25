@@ -291,3 +291,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Crooks and Liars (USA)
 *://*.crooksandliars.com/*
 
+# Current Affairs Magazine (USA)
+*://*.currentaffairs.org/*
+
