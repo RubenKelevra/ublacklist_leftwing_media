@@ -902,3 +902,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Politizoom (USA)
 *://*.politizoom.com/*
 
+# Popular Information (USA)
+*://*.popular.info/*
+
