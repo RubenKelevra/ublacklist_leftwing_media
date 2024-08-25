@@ -261,3 +261,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Consortium News (USA)
 *://*.consortiumnews.com/*
 
+# Cop Block (USA)
+*://*.copblock.org/*
+
