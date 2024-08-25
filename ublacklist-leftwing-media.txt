@@ -1370,3 +1370,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # World Socialist Web Site (USA)
 *://*.wsws.org/*
 
+# WyoFile (USA)
+*://*.wyofile.com/*
+
