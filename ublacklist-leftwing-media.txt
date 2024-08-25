@@ -1385,3 +1385,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Znetwork (USA)
 *://*.znetwork.org/*
 
+# Zona Media (Russia)
+*://*.zona.media/*
+
