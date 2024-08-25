@@ -844,3 +844,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Oregon Capital Chronicle (USA)
 *://*.oregoncapitalchronicle.com/*
 
+# Orlando Weekly (USA)
+*://*.orlandoweekly.com/*
+
