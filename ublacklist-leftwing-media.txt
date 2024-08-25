@@ -539,3 +539,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # In These Times (USA)
 *://*.inthesetimes.com/*
 
+# The Independent Florida Alligator (USA)
+*://*.alligator.org/*
+
