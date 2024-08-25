@@ -96,3 +96,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # AutoStraddle (USA)
 *://*.autostraddle.com/*
 
+# Baltimore City Paper (USA)
+*://*.baltimoresun.com/*
+
