@@ -75,3 +75,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Angry White Men (USA)
 *://*.angrywhitemen.org/*
 
+# Anthropocene Alliance (USA)
+*://*.anthropocenealliance.org/*
+
