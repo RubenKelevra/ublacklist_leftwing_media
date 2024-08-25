@@ -270,3 +270,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # CounterCurrents.org (India)
 *://*.countercurrents.org/*
 
+# CounterFire (UK)
+*://*.counterfire.org/*
+
