@@ -327,3 +327,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # DavidPakman.com (USA)
 *://*.davidpakman.com/*
 
+# DeadState (USA)
+*://*.deadstate.org/*
+
