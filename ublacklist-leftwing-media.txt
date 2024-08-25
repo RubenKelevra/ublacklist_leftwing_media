@@ -51,3 +51,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Al DIA (USA)
 *://*.aldianews.com/*
 
+# Alliance for Justice (USA)
+*://*.afj.org/*
+
