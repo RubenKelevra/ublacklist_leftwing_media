@@ -476,3 +476,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Georgia Recorder (USA)
 *://*.georgiarecorder.com/*
 
+# Giffords Law Center to Prevent Gun Violence (USA)
+*://*.giffords.org/*
+
