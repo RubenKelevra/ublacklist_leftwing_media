@@ -1095,3 +1095,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Breach (Canada)
 *://*.breachmedia.ca/*
 
+# The Burning Spear (USA)
+*://*.theburningspear.com/*
+
