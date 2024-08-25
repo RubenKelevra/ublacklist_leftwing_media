@@ -639,3 +639,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # LGBTQ Nation (USA)
 *://*.lgbtqnation.com/*
 
+# Libcom.org (USA)
+*://*.libcom.org/*
+
