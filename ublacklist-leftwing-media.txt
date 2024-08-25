@@ -1382,3 +1382,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Young Turks (USA)
 *://*.tyt.com/*
 
+# Znetwork (USA)
+*://*.znetwork.org/*
+
