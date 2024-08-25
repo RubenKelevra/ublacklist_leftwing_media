@@ -321,3 +321,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Dallas Voice (USA)
 *://*.dallasvoice.com/*
 
+# Dame Magazine (USA)
+*://*.damemagazine.com/*
+
