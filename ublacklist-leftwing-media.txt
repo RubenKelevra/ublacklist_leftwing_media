@@ -363,3 +363,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Detroit Metro Times (USA)
 *://*.metrotimes.com/*
 
+# Dissent Magazine (USA)
+*://*.dissentmagazine.org/*
+
