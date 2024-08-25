@@ -397,3 +397,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # ELLE Magazine (USA)
 *://*.elle.com/*
 
+# Erin in the Morning (USA)
+*://*.erininthemorning.com/*
+
