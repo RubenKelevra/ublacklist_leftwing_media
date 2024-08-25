@@ -1086,3 +1086,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The American Prospect (USA)
 *://*.prospect.org/*
 
+# The Austin Chronicle (USA)
+*://*.austinchronicle.com/*
+
