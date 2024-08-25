@@ -600,3 +600,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Junkee (Australia)
 *://*.junkee.com/*
 
+# Kansas Reflector (USA)
+*://*.kansasreflector.com/*
+
