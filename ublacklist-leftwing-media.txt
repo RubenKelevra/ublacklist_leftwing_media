@@ -1068,3 +1068,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Teen Vogue (USA)
 *://*.teenvogue.com/*
 
+# Tennessee Holler (USA)
+*://*.tnholler.com/*
+
