@@ -168,3 +168,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Capitol News Illinois (USA)
 *://*.capitolnewsillinois.com/*
 
+# Care2 (USA)
+*://*.care2.com/*
+
