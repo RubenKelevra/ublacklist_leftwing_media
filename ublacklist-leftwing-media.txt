@@ -424,3 +424,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Fifth Estate (USA)
 *://*.fifthestate.org/*
 
+# Finnish News (Finland)
+*://*.finnishnews.fi/*
+
