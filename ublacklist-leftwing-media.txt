@@ -54,3 +54,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Alliance for Justice (USA)
 *://*.afj.org/*
 
+# Alt News (India)
+*://*.altnews.in/*
+
