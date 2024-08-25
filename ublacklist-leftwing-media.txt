@@ -180,3 +180,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Center for Biological Diversity (USA)
 *://*.biologicaldiversity.org/*
 
+# Center for Law and Social Policy (USA)
+*://*.clasp.org/*
+
