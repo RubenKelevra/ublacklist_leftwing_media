@@ -887,3 +887,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # PINAC (USA)
 *://*.pinacnews.com/*
 
+# PinkNews (UK)
+*://*.thepinknews.com/*
+
