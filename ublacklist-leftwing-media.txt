@@ -968,3 +968,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Resilience (USA)
 *://*.resilience.org/*
 
+# Resolute Square (USA)
+*://*.resolutesquare.com/*
+
