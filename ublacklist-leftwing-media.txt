@@ -90,3 +90,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Attack The System (USA)
 *://*.attackthesystem.com/*
 
+# AT Advocacy (USA)
+*://*.atadvocacy.com/*
+
