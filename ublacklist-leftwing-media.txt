@@ -1154,3 +1154,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Indypendent (USA)
 *://*.indypendent.org/*
 
+# The Intellectualist (USA)
+*://*.mavenroundtable.io/*
+
