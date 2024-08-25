@@ -379,3 +379,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Earth First Journal (USA)
 *://*.earthfirstjournal.news/*
 
+# Ecowatch (USA)
+*://*.ecowatch.com/*
+
