@@ -1200,3 +1200,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The New Inquiry (USA)
 *://*.thenewinquiry.com/*
 
+# The Palestine Chronicle (USA)
+*://*.palestinechronicle.com/*
+
