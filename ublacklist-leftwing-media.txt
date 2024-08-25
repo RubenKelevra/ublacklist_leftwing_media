@@ -739,3 +739,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # National Democratic Training Committee (USA)
 *://*.traindemocrats.org/*
 
+# National Immigration Law Center (USA)
+*://*.nilc.org/*
+
