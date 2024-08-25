@@ -99,3 +99,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Baltimore City Paper (USA)
 *://*.baltimoresun.com/*
 
+# Bay Area Reporter (USA)
+*://*.ebar.com/*
+
