@@ -404,6 +404,9 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.democracynow.org/*
 
 # Democratic Underground (USA)
+*://*.crunchbase.com/organization/democratic-underground*
+*://*.instagram.com/democraticunderground*
+*://*.zoominfo.com/c/democratic-underground-llc/*
 *://*.democraticunderground.com/*
 
 # Deshabhimani (India)
