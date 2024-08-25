@@ -992,3 +992,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Rolling Stone (USA)
 *://*.rollingstone.com/*
 
+# Salon (USA)
+*://*.salon.com/*
+
