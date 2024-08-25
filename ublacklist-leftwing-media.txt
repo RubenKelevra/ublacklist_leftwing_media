@@ -651,3 +651,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Little Green Footballs (USA)
 *://*.littlegreenfootballs.com/*
 
+# Louisiana Illuminator (USA)
+*://*.lailluminator.com/*
+
