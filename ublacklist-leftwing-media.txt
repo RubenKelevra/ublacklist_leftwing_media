@@ -772,3 +772,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # New Politics Magazine (USA)
 *://*.newpol.org/*
 
+# New Republic (USA)
+*://*.newrepublic.com/*
+
