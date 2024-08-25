@@ -512,3 +512,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Harper’s Bazaar (USA)
 *://*.harpersbazaar.com/*
 
+# Harvard International Review (USA)
+*://*.hir.harvard.edu/*
+
