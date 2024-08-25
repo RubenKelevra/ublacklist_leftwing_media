@@ -497,3 +497,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Grasping Reality With Both Hands: Bradford DeLong (USA)
 *://*.bradford-delong.com/*
 
+# Green Left Weekly (Australia)
+*://*.greenleft.org.au/*
+
