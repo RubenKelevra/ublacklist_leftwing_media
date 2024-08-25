@@ -577,6 +577,16 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.good.is/*
 
 # GQ Magazine (USA)
+*://*.instagram.com/britishgq*
+*://*.instagram.com/gq*
+*://*.pinterest.com/pin/gq-magazine*
+*://*.twitter.com/GQMagazine*
+*://*.twitter.com/britishgq*
+*://*.twitter.com/gqmagazine*
+*://*.x.com/GQMagazine*
+*://*.x.com/britishgq*
+*://*.x.com/gqmagazine*
+*://*.youtube.com/channel/UCsEukrAd64fqA7FjwkmZ_Dw*
 *://*.gq.com/*
 
 # Grasping Reality With Both Hands: Bradford DeLong (USA)
