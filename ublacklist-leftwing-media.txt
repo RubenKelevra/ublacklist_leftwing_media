@@ -1185,3 +1185,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Narwhal (Canada)
 *://*.thenarwhal.ca/*
 
+# The Nation (USA)
+*://*.thenation.com/*
+
