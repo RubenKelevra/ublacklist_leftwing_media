@@ -884,3 +884,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Physicians for a National Health Program (USA)
 *://*.pnhp.org/*
 
+# PINAC (USA)
+*://*.pinacnews.com/*
+
