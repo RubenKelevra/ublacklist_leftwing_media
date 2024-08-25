@@ -769,3 +769,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # New Jersey Monitor (USA)
 *://*.newjerseymonitor.com/*
 
+# New Politics Magazine (USA)
+*://*.newpol.org/*
+
