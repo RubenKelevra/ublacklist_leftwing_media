@@ -917,3 +917,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Press Progress (Canada)
 *://*.pressprogress.ca/*
 
+# Press Watch (USA)
+*://*.presswatchers.org/*
+
