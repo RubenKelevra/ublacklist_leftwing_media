@@ -941,3 +941,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Queerty (USA)
 *://*.queerty.com/*
 
+# Rabble.ca (Canada)
+*://*.rabble.ca/*
+
