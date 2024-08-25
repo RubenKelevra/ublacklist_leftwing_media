@@ -400,3 +400,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Erin in the Morning (USA)
 *://*.erininthemorning.com/*
 
+# Esquire Magazine (USA)
+*://*.esquire.com/*
+
