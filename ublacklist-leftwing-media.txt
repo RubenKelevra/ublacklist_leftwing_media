@@ -1118,3 +1118,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.thedailybanter.com/*
 *://*.thedailybantercom.wpcomstaging.com/*
 
+# The Daily Buzz (USA)
+*://*.the-daily.buzz/*
+
