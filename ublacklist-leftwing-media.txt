@@ -654,3 +654,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Louisiana Illuminator (USA)
 *://*.lailluminator.com/*
 
+# Mail & Guardian (South Africa)
+*://*.mg.co.za/*
+
