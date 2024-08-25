@@ -862,3 +862,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Palmer Report (USA)
 *://*.palmerreport.com/*
 
+# Paste Magazine (USA)
+*://*.pastemagazine.com/*
+
