@@ -1020,3 +1020,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Slate (USA)
 *://*.slate.com/*
 
+# Sludge (USA)
+*://*.readsludge.com/*
+
