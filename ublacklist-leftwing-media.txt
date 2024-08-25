@@ -700,3 +700,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Middle East Monitor (USA)
 *://*.middleeastmonitor.com/*
 
+# Middletown Media (USA)
+*://*.muncievoice.com/*
+
