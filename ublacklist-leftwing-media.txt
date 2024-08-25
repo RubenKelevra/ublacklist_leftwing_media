@@ -1257,3 +1257,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Week (USA)
 *://*.theweek.com/*
 
+# The World Can’t Wait (USA)
+*://*.worldcantwait.net/*
+*://*.worldcantwait.org/*
+
