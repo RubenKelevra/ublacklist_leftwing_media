@@ -306,3 +306,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Daily Kos (USA)
 *://*.dailykos.com/*
 
+# Daily Montanan (USA)
+*://*.dailymontanan.com/*
+
