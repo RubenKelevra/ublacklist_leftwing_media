@@ -303,3 +303,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Daily Dot (USA)
 *://*.dailydot.com/*
 
+# Daily Kos (USA)
+*://*.dailykos.com/*
+
