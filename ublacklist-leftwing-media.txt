@@ -412,3 +412,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Evonomics (USA)
 *://*.evonomics.com/*
 
+# Exposed by CMD (USA)
+*://*.exposedbycmd.org/*
+
