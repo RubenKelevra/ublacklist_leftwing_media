@@ -1364,3 +1364,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Wonkette (USA)
 *://*.wonkette.com/*
 
+# Workers World (USA)
+*://*.workers.org/*
+
