@@ -663,3 +663,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Maine Morning Star (USA)
 *://*.mainemorningstar.com/*
 
+# Movement Advancement Project (USA)
+*://*.mapresearch.org/*
+
