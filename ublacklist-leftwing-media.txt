@@ -324,3 +324,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Dame Magazine (USA)
 *://*.damemagazine.com/*
 
+# DavidPakman.com (USA)
+*://*.davidpakman.com/*
+
