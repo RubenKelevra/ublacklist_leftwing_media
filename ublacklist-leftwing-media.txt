@@ -470,3 +470,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.gaytimes.co.uk/*
 *://*.gaytimes.com/*
 
+# Geopolitics Alert (USA)
+*://*.geopoliticsalert.com/*
+
