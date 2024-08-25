@@ -48,3 +48,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Alaska Beacon (USA)
 *://*.alaskabeacon.com/*
 
+# Al DIA (USA)
+*://*.aldianews.com/*
+
