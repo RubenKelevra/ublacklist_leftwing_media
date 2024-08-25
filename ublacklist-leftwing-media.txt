@@ -369,3 +369,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Double Down News (UK)
 *://*.doubledown.news/*
 
+# Dream for America (USA)
+*://*.dream4america.org/*
+*://*.dreamforamerica.org/*
+
