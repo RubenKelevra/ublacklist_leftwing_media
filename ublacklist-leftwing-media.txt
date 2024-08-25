@@ -799,3 +799,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # News from the States (USA)
 *://*.newsfromthestates.com/*
 
+# NewsHounds (USA)
+*://*.newshounds.us/*
+
