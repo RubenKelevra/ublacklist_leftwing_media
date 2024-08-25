@@ -1336,3 +1336,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Washington Press (USA)
 *://*.washingtonpress.com/*
 
+# Washingtonian (USA)
+*://*.washingtonian.com/*
+
