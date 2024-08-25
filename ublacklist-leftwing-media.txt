@@ -1321,3 +1321,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Vegan Society (UK)
 *://*.vegansociety.com/*
 
+# Venezuela Analysis (USA)
+*://*.venezuelanalysis.com/*
+
