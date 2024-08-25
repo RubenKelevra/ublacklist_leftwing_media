@@ -33,3 +33,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # ActBlue (USA)
 *://*.secure.actblue.com/*
 
+# Act.TV (USA)
+*://*.act.tv/*
+
