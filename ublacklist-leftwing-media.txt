@@ -1367,3 +1367,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Workers World (USA)
 *://*.workers.org/*
 
+# World Socialist Web Site (USA)
+*://*.wsws.org/*
+
