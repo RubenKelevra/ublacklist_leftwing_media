@@ -609,3 +609,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Knock-LA (USA)
 *://*.knock-la.com/*
 
+# Lavender Magazine (USA)
+*://*.lavendermagazine.com/*
+
