@@ -1264,3 +1264,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # TheGrio (USA)
 *://*.thegrio.com/*
 
+# The Zero Hour (USA)
+*://*.thisisthezerohour.com/*
+
