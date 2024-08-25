@@ -581,3 +581,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # It’s Going Down (USA)
 *://*.itsgoingdown.org/*
 
+# Jacobin (USA)
+*://*.jacobin.com/*
+
