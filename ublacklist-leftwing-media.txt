@@ -745,3 +745,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # National Organization for Women (USA)
 *://*.now.org/*
 
+# National Women’s Law Center (USA)
+*://*.nwlc.org/*
+
