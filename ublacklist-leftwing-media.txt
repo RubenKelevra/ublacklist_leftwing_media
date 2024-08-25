@@ -111,3 +111,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # BillMoyers.com (USA)
 *://*.billmoyers.com/*
 
+# Black Agenda Report (USA)
+*://*.blackagendareport.com/*
+
