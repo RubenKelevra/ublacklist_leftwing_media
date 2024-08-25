@@ -156,3 +156,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Canada Fact Check (Canada)
 *://*.canadafactcheck.ca/*
 
+# Canadian Anti-Hate Network (Canada)
+*://*.antihate.ca/*
+
