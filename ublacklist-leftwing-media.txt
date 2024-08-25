@@ -736,3 +736,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # National Association for the Advancement of Colored People (USA)
 *://*.naacp.org/*
 
+# National Democratic Training Committee (USA)
+*://*.traindemocrats.org/*
+
