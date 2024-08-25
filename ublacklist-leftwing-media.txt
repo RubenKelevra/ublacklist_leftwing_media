@@ -618,3 +618,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The League of Conservation Voters (USA)
 *://*.lcv.org/*
 
+# Left Foot Forward (UK)
+*://*.leftfootforward.org/*
+
