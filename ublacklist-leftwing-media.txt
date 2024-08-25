@@ -563,3 +563,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # International Policy Digest (USA)
 *://*.intpolicydigest.org/*
 
+# International Socialism Journal (UK)
+*://*.isj.org.uk/*
+
