@@ -790,3 +790,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # New Yorker (USA)
 *://*.newyorker.com/*
 
+# NewsClick (India)
+*://*.newsclick.in/*
+
