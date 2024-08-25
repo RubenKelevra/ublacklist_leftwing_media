@@ -868,3 +868,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Pennsylvania Capital-Star (USA)
 *://*.penncapital-star.com/*
 
+# People for the American Way (USA)
+*://*.pfaw.org/*
+*://*.peoplefor.org/*
+
