@@ -660,3 +660,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Maine Beacon (USA)
 *://*.mainebeacon.com/*
 
+# Maine Morning Star (USA)
+*://*.mainemorningstar.com/*
+
