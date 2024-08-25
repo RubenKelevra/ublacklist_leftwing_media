@@ -357,6 +357,14 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.dailynewsbin.com/*
 
 # Daily Record (UK)
+*://*.instagram.com/scottishdailyrecord*
+*://*.twitter.com/Daily_Record*
+*://*.twitter.com/daily_record*
+*://*.twitter.com/record_sport*
+*://*.x.com/Daily_Record*
+*://*.x.com/daily_record*
+*://*.x.com/record_sport*
+*://*.youtube.com/@scottishdailyrecord*
 *://*.dailyrecord.co.uk/*
 
 # Daily Sound and Fury (USA)
