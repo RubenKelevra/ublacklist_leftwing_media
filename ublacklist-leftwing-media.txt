@@ -329,6 +329,16 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.thedailybeast.com/*
 
 # Daily Dot (USA)
+*://*.crunchbase.com/organization/the-daily-dot*
+*://*.instagram.com/dailydot*
+*://*.twitter.com/dailydot*
+*://*.twitter.com/sjobergreport*
+*://*.x.com/dailydot*
+*://*.x.com/sjobergreport*
+*://*.youtube.com/@dailydot*
+*://podcasts.apple.com/*/podcast/*/id1179475743*
+*://podcasts.apple.com/*/podcast/daily-dot-podcasts/*
+*://podcasts.apple.com/*/podcast/daily-dot-podcasts/id1179475743*
 *://*.dailydot.com/*
 
 # Daily Kos (USA)
