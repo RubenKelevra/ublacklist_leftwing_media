@@ -1114,3 +1114,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.daily49er.com/*
 *://*.lbcurrent.com/*
 
+# The Daily Banter (USA)
+*://*.thedailybanter.com/*
+*://*.thedailybantercom.wpcomstaging.com/*
+
