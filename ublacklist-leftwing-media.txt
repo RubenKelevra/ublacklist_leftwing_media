@@ -1376,3 +1376,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Xtra Magazine (Canada)
 *://*.xtramagazine.com/*
 
+# Yes Magazine (USA)
+*://*.yesmagazine.org/*
+
