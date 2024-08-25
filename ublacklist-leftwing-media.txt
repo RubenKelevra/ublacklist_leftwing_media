@@ -578,3 +578,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Iowa Starting Line (USA)
 *://*.iowastartingline.com/*
 
+# It’s Going Down (USA)
+*://*.itsgoingdown.org/*
+
