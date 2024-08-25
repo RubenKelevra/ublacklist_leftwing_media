@@ -488,3 +488,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Global Voices (USA)
 *://*.globalvoices.org/*
 
+# Good Magazine (USA)
+*://*.good.is/*
+
