@@ -237,3 +237,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # ColorLines (USA)
 *://*.colorlines.com/*
 
+# Color of Change (USA)
+*://*.colorofchange.org/*
+
