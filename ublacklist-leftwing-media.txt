@@ -533,3 +533,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Idaho Capital Sun (USA)
 *://*.idahocapitalsun.com/*
 
+# In Defence of Marxism (UK)
+*://*.marxist.com/*
+
