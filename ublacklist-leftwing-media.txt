@@ -856,3 +856,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # PNN (Palestine)
 *://*.english.pnn.ps/*
 
+# Palestinian Information Center (Palestine)
+*://*.english.palinfo.com/*
+
