@@ -1361,3 +1361,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Wisconsin Examiner (USA)
 *://*.wisconsinexaminer.com/*
 
+# Wonkette (USA)
+*://*.wonkette.com/*
+
