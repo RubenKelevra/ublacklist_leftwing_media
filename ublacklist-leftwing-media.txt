@@ -859,3 +859,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Palestinian Information Center (Palestine)
 *://*.english.palinfo.com/*
 
+# Palmer Report (USA)
+*://*.palmerreport.com/*
+
