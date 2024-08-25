@@ -1318,3 +1318,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Vanity Fair (USA)
 *://*.vanityfair.com/*
 
+# Vegan Society (UK)
+*://*.vegansociety.com/*
+
