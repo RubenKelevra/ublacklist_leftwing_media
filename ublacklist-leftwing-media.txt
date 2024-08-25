@@ -587,3 +587,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Jewish Currents (USA)
 *://*.jewishcurrents.org/*
 
+# Jewish Voice for Peace (USA)
+*://*.jewishvoiceforpeace.org/*
+
