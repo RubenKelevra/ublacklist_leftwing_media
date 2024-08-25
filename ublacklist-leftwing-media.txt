@@ -27,3 +27,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # 350 Turkiye (USA)
 *://*.350turkiye.org/*
 
+# Accountable.US (USA)
+*://*.accountable.us/*
+
