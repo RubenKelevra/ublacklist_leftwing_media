@@ -267,3 +267,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Cosmopolitan (USA)
 *://*.cosmopolitan.com/*
 
+# CounterCurrents.org (India)
+*://*.countercurrents.org/*
+
