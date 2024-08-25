@@ -621,3 +621,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Left Foot Forward (UK)
 *://*.leftfootforward.org/*
 
+# Left Voice (USA)
+*://*.leftvoice.org/*
+
