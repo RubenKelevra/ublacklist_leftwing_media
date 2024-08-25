@@ -760,3 +760,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Neues Deutschland (Germany)
 *://*.nd-aktuell.de/*
 
+# Nevada Current (USA)
+*://*.nevadacurrent.com/*
+
