@@ -394,3 +394,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Elite Daily (USA)
 *://*.elitedaily.com/*
 
+# ELLE Magazine (USA)
+*://*.elle.com/*
+
