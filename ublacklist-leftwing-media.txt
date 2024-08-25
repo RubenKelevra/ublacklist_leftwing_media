@@ -506,3 +506,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Guardian Liberty Voice (USA)
 *://*.guardianlv.com/*
 
+# Haaretz (Israel)
+*://*.haaretz.com/*
+
