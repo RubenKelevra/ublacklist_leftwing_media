@@ -1224,3 +1224,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Solutions Project (USA)
 *://*.thesolutionsproject.org/*
 
+# The Source Newspaper (Canada)
+*://*.thelasource.com/*
+
