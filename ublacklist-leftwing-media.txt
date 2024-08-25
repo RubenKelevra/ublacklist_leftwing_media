@@ -294,3 +294,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Current Affairs Magazine (USA)
 *://*.currentaffairs.org/*
 
+# Curve Magazine (USA)
+*://*.curvemag.com/*
+
