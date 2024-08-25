@@ -1270,3 +1270,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Them.us (USA)
 *://*.them.us/*
 
+# ThinkPol (Canada)
+*://*.thinkpol.ca/*
+
