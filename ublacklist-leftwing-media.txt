@@ -672,3 +672,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Mashable (USA)
 *://*.mashable.com/*
 
+# Media Matters (USA)
+*://*.mediamatters.org/*
+
