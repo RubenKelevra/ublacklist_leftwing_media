@@ -678,3 +678,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Mediaite (USA)
 *://*.mediaite.com/*
 
+# Meduza (Latvia)
+*://*.meduza.io/*
+
