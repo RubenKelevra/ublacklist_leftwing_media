@@ -603,3 +603,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Kansas Reflector (USA)
 *://*.kansasreflector.com/*
 
+# Kentucky Lantern (USA)
+*://*.kentuckylantern.com/*
+
