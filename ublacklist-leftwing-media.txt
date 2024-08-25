@@ -908,3 +908,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Popular Resistance (USA)
 *://*.popularresistance.org/*
 
+# Portside (USA)
+*://*.portside.org/*
+
