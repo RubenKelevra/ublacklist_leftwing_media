@@ -691,3 +691,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Merry Jane (USA)
 *://*.merryjane.com/*
 
+# Miami New Times (USA)
+*://*.miaminewtimes.com/*
+
