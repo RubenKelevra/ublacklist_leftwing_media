@@ -835,3 +835,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # One Green Planet (USA)
 *://*.onegreenplanet.org/*
 
+# OpEdNews (USA)
+*://*.opednews.com/*
+
