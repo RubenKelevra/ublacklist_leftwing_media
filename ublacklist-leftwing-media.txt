@@ -899,3 +899,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # PoliticusUSA (USA)
 *://*.politicususa.com/*
 
+# Politizoom (USA)
+*://*.politizoom.com/*
+
