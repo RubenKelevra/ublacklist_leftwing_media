@@ -808,3 +808,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Nonprofit Quarterly (USA)
 *://*.nonprofitquarterly.org/*
 
+# North Dakota Monitor (USA)
+*://*.northdakotamonitor.com/*
+
