@@ -1101,3 +1101,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Canary (UK)
 *://*.thecanary.co/*
 
+# The Climate Reality Project (USA)
+*://*.climaterealityproject.org/*
+
