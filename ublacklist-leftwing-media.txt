@@ -418,3 +418,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # FairPlanet (Germany)
 *://*.fairplanet.org/*
 
+# Feminist Current (Canada)
+*://*.feministcurrent.com/*
+
