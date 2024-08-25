@@ -980,3 +980,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Rewire News Group (USA)
 *://*.rewirenewsgroup.com/*
 
+# Rhode Island Current (USA)
+*://*.rhodeislandcurrent.com/*
+
