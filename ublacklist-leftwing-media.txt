@@ -1358,3 +1358,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Who.What.Why (USA)
 *://*.whowhatwhy.org/*
 
+# Wisconsin Examiner (USA)
+*://*.wisconsinexaminer.com/*
+
