@@ -923,3 +923,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Pride Source (USA)
 *://*.pridesource.com/*
 
+# Prism (USA)
+*://*.prismreports.org/*
+
