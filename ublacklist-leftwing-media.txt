@@ -1239,3 +1239,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Texas Observer (USA)
 *://*.texasobserver.org/*
 
+# The Village Voice (USA)
+*://*.villagevoice.com/*
+
