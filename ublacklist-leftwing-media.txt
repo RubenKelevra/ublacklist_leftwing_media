@@ -258,3 +258,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # CommonWealth Beacon (USA)
 *://*.commonwealthbeacon.org/*
 
+# Consortium News (USA)
+*://*.consortiumnews.com/*
+
