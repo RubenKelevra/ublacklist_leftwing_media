@@ -36,3 +36,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Act.TV (USA)
 *://*.act.tv/*
 
+# Action Network (USA)
+*://*.actionnetwork.org/*
+
