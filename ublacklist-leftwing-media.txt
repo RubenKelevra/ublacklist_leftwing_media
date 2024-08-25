@@ -766,3 +766,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # New Internationalist (UK)
 *://*.newint.org/*
 
+# New Jersey Monitor (USA)
+*://*.newjerseymonitor.com/*
+
