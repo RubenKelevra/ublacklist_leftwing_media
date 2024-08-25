@@ -1227,3 +1227,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Source Newspaper (Canada)
 *://*.thelasource.com/*
 
+# The Stand (USA)
+*://*.thestand.org/*
+
