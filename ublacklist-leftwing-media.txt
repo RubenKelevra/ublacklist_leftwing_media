@@ -793,3 +793,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # NewsClick (India)
 *://*.newsclick.in/*
 
+# News Corpse (USA)
+*://*.newscorpse.com/*
+
