@@ -174,3 +174,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Ceasefire Magazine (UK)
 *://*.ceasefiremagazine.co.uk/*
 
+# Center for American Progress (USA)
+*://*.americanprogress.org/*
+
