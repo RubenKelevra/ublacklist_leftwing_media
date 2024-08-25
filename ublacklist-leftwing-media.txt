@@ -50,6 +50,8 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.actionnetwork.org/*
 
 # Aftonbladet (Sweden)
+*://*.instagram.com/aftonbladet*
+*://*.youtube.com/@aftonbladettv*
 *://*.aftonbladet.se/*
 
 # Alabama Reflector (USA)
