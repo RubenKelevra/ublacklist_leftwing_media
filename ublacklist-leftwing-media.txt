@@ -1288,3 +1288,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # TheTruth.com (USA)
 *://*.thetruth.com/*
 
+# TruthOut (USA)
+*://*.truthout.org/*
+
