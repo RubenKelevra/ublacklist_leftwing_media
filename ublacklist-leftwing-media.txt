@@ -494,3 +494,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # GQ Magazine (USA)
 *://*.gq.com/*
 
+# Grasping Reality With Both Hands: Bradford DeLong (USA)
+*://*.bradford-delong.com/*
+
