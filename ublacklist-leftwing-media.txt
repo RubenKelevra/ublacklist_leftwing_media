@@ -688,3 +688,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Metro Weekly (USA)
 *://*.metroweekly.com/*
 
+# Merry Jane (USA)
+*://*.merryjane.com/*
+
