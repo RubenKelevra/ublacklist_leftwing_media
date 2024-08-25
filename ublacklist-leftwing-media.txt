@@ -1355,3 +1355,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # West Virginia Watch (USA)
 *://*.westvirginiawatch.com/*
 
+# Who.What.Why (USA)
+*://*.whowhatwhy.org/*
+
