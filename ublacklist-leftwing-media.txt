@@ -998,3 +998,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # San Antonio Current (USA)
 *://*.sacurrent.com/*
 
+# San Francisco Bay View (USA)
+*://*.sfbayview.com/*
+
