@@ -781,3 +781,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # New York Amsterdam News (USA)
 *://*.amsterdamnews.com/*
 
+# New York Focus (USA)
+*://*.nysfocus.com/*
+
