@@ -1327,3 +1327,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Vox (USA)
 *://*.vox.com/*
 
+# Wall Street on Parade (USA)
+*://*.wallstreetonparade.com/*
+
