@@ -1092,3 +1092,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Baffler (USA)
 *://*.thebaffler.com/*
 
+# The Breach (Canada)
+*://*.breachmedia.ca/*
+
