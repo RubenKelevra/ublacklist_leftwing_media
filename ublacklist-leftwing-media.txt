@@ -1339,3 +1339,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Washingtonian (USA)
 *://*.washingtonian.com/*
 
+# Washington Report on Middle East Affairs (USA)
+*://*.wrmea.org/*
+
