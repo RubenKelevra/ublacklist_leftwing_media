@@ -635,6 +635,11 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.hopenothate.org.uk/*
 
 # Huffington Post (USA)
+*://*.crunchbase.com/organization/huffingtonpost*
+*://*.instagram.com/*huffpost*
+*://*.twitter.com/huffpostpol*
+*://*.x.com/huffpostpol*
+*://*.youtube.com/@huffpost*
 *://*.huffpost.com/*
 
 # Human Rights Campaign (USA)
