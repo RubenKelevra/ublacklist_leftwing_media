@@ -482,3 +482,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Gizmodo (USA)
 *://*.gizmodo.com/*
 
+# GLAAD (USA)
+*://*.glaad.org/*
+
