@@ -841,3 +841,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Open Society Foundations (USA)
 *://*.opensocietyfoundations.org/*
 
+# Oregon Capital Chronicle (USA)
+*://*.oregoncapitalchronicle.com/*
+
