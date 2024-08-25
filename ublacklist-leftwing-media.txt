@@ -593,3 +593,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Jezebel (USA)
 *://*.jezebel.com/*
 
+# JoeBiden.com (USA)
+*://*.joebiden.com/*
+*://*.actblue.com/*
+
