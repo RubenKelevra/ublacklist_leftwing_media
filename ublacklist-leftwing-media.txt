@@ -1294,3 +1294,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Truth Theory (UK)
 *://*.truththeory.com/*
 
+# Unicorn Riot (USA)
+*://*.unicornriot.ninja/*
+
