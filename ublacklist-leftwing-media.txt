@@ -642,3 +642,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Libcom.org (USA)
 *://*.libcom.org/*
 
+# Liberal America (USA)
+*://*.liberalamerica.org/*
+
