@@ -829,3 +829,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Oklahoma Voice (USA)
 *://*.oklahomavoice.com/*
 
+# OKO.Press (Poland)
+*://*.oko.press/*
+
