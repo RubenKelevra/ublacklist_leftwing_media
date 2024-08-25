@@ -430,3 +430,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Florida Phoenix (USA)
 *://*.floridaphoenix.com/*
 
+# Food and Water Watch (USA)
+*://*.foodandwaterwatch.org/*
+
