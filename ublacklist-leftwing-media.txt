@@ -896,3 +896,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Political Tribune (USA)
 *://*.polinews.org/*
 
+# PoliticusUSA (USA)
+*://*.politicususa.com/*
+
