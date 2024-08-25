@@ -1324,3 +1324,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Venezuela Analysis (USA)
 *://*.venezuelanalysis.com/*
 
+# Vox (USA)
+*://*.vox.com/*
+
