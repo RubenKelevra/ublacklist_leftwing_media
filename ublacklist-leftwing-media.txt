@@ -213,3 +213,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Cleveland Scene (USA)
 *://*.clevescene.com/*
 
+# CLIMA Fund (USA)
+*://*.climasolutions.org/*
+
