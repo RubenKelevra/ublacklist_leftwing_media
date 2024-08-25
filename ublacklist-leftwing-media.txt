@@ -1276,3 +1276,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # This Magazine (Canada)
 *://*.this.org/*
 
+# Towleroad (USA)
+*://*.towleroad.com/*
+
