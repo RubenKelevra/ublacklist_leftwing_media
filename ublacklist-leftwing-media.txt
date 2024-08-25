@@ -338,3 +338,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Democracy Chronicles (USA)
 *://*.democracychronicles.org/*
+
+# Democracy Docket (USA)
+*://*.democracydocket.com/*
