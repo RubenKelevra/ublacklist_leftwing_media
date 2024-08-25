@@ -784,3 +784,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # New York Focus (USA)
 *://*.nysfocus.com/*
 
+# New York Magazine (USA)
+*://*.nymag.com/*
+
