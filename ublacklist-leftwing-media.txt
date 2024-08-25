@@ -1151,3 +1151,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Immigrant Legal Resource Center (USA)
 *://*.ilrc.org/*
 
+# The Indypendent (USA)
+*://*.indypendent.org/*
+
