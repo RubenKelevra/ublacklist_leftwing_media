@@ -1379,3 +1379,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Yes Magazine (USA)
 *://*.yesmagazine.org/*
 
+# The Young Turks (USA)
+*://*.tyt.com/*
+
