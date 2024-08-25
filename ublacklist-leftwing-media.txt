@@ -297,3 +297,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Curve Magazine (USA)
 *://*.curvemag.com/*
 
+# Daily Beast (USA)
+*://*.thedailybeast.com/*
+
