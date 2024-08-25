@@ -243,3 +243,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Columbus Free Press (USA)
 *://*.columbusfreepress.com/*
 
+# Comic Sands (USA)
+*://*.comicsands.com/*
+
