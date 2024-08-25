@@ -602,6 +602,13 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 *://*.guardianlv.com/*
 
 # Haaretz (Israel)
+*://*.instagram.com/haaretzcom*
+*://*.twitter.com/haaretzcom*
+*://*.x.com/haaretzcom*
+*://*.youtube.com/@haaretzcom*
+*://podcasts.apple.com/*/podcast/*/id1440719849*
+*://podcasts.apple.com/*/podcast/haaretz-podcast/*
+*://podcasts.apple.com/*/podcast/haaretz-podcast/id1440719849*
 *://*.haaretz.com/*
 
 # Harper’s Bazaar (USA)
