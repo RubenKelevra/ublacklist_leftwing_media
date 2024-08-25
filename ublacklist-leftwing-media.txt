@@ -30,3 +30,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Accountable.US (USA)
 *://*.accountable.us/*
 
+# ActBlue (USA)
+*://*.secure.actblue.com/*
+
