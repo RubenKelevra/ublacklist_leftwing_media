@@ -606,3 +606,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Kentucky Lantern (USA)
 *://*.kentuckylantern.com/*
 
+# Knock-LA (USA)
+*://*.knock-la.com/*
+
