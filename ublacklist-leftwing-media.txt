@@ -1291,3 +1291,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # TruthOut (USA)
 *://*.truthout.org/*
 
+# Truth Theory (UK)
+*://*.truththeory.com/*
+
