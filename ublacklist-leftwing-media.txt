@@ -63,3 +63,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Amandla (South Africa)
 *://*.aidc.org.za/*
 
+# American Bridge 21st Century (USA)
+*://*.americanbridgepac.org/*
+
