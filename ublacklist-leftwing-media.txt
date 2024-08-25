@@ -1032,3 +1032,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # SocialistWorker.org (USA)
 *://*.socialistworker.org/*
 
+# Source New Mexico (USA)
+*://*.sourcenm.com/*
+
