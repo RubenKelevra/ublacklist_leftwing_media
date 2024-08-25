@@ -515,3 +515,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Harvard International Review (USA)
 *://*.hir.harvard.edu/*
 
+# High Times (USA)
+*://*.hightimes.com/*
+
