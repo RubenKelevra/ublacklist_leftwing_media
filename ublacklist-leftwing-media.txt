@@ -612,3 +612,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Lavender Magazine (USA)
 *://*.lavendermagazine.com/*
 
+# LA Weekly (USA)
+*://*.laweekly.com/*
+
