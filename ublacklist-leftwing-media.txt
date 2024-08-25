@@ -518,3 +518,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # High Times (USA)
 *://*.hightimes.com/*
 
+# Hill Reporter (USA)
+*://*.hillreporter.com/*
+
