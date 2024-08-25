@@ -1080,3 +1080,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # The Advocate (USA)
 *://*.advocate.com/*
 
+# The American Independent (USA)
+*://*.americanindependent.com/*
+
