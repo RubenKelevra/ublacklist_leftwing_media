@@ -376,3 +376,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Drudge Retort (USA)
 *://*.drudge.com/*
 
+# Earth First Journal (USA)
+*://*.earthfirstjournal.news/*
+
