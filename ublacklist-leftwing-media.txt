@@ -1505,3 +1505,5 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 # Zona Media (Russia)
 *://*.zona.media/*
 
+# Progressive International (USA)
+*://*.progressive.international/*
