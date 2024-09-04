@@ -1510,3 +1510,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Sanders Institute (USA)
 *://*.sandersinstitute.org/*
+
+# Girls for Gender Equity (USA)
+*://*.ggenyc.org/*
