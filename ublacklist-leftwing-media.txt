@@ -1513,3 +1513,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Girls for Gender Equity (USA)
 *://*.ggenyc.org/*
+
+# American Democracy Scorecard (USA)
+*://*.americandemocracyscorecard.org/*
