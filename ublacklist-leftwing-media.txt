@@ -1516,3 +1516,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # American Democracy Scorecard (USA)
 *://*.americandemocracyscorecard.org/*
+
+# Sentient Media (USA)
+*://*.sentientmedia.org/*
