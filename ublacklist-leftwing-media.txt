@@ -1522,3 +1522,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # The Maple (Canada)
 *://*.readthemaple.com/*
+
+# Die Tageszeitung (Germany)
+*://*.taz.de/*
