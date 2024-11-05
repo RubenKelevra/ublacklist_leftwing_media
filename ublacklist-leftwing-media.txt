@@ -1519,3 +1519,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Sentient Media (USA)
 *://*.sentientmedia.org/*
+
+# The Maple (Canada)
+*://*.readthemaple.com/*
