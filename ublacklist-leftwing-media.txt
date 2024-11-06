@@ -1501,7 +1501,7 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Znetwork (USA)
 *://*.znetwork.org/*
-
+(
 # Zona Media (Russia)
 *://*.zona.media/*
 
@@ -1525,3 +1525,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Die Tageszeitung (Germany)
 *://*.taz.de/*
+
+# Reckon News (USA)
+*://*.reckon.news/*
