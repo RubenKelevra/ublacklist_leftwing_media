@@ -1531,3 +1531,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Syrian Arab News Agency (Syria)
 *://*.sana.sy/*
+
+# Russia vs. World (USA)
+*://*.russiavsworld.org/*
