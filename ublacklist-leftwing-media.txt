@@ -1576,3 +1576,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Shepherd Express (USA)
 *://*.shepherdexpress.com/*
+
+# Heimildin (Iceland)
+*://*.heimildin.is/*
