@@ -1573,3 +1573,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # ScheerPost (USA)
 *://*.scheerpost.com/*
+
+# Shepherd Express (USA)
+*://*.shepherdexpress.com/*
