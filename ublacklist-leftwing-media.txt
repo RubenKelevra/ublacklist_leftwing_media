@@ -1543,3 +1543,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Planet: Critical (USA)
 *://*.planetcritical.com/*
+
+# Ecoticias (Spain)
+*://*.ecoticias.com/*
