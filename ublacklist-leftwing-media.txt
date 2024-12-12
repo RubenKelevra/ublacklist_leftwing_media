@@ -1552,3 +1552,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # The Democracy Labs (USA)
 *://*.thedemlabs.org/*
+
+# San Francisco Public Press (USA)
+*://*.sfpublicpress.org/*
