@@ -1546,3 +1546,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Ecoticias (Spain)
 *://*.ecoticias.com/*
+
+# Drop Site News (USA)
+*://*.dropsitenews.com/*
