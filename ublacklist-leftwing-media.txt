@@ -1528,3 +1528,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Reckon News (USA)
 *://*.reckon.news/*
+
+# Syrian Arab News Agency (Syria)
+*://*.sana.sy/*
