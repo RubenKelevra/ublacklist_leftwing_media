@@ -1540,3 +1540,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Civil Eats (USA)
 *://*.civileats.com/*
+
+# Planet: Critical (USA)
+*://*.planetcritical.com/*
