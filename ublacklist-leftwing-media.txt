@@ -1579,3 +1579,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Heimildin (Iceland)
 *://*.heimildin.is/*
+
+# Street Roots (USA)
+*://*.streetroots.org/*
