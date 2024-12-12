@@ -1561,3 +1561,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Junge Welt (Germany)
 *://*.jungewelt.de/*
+
+# The Other 98% (USA)
+*://*.other98.com/*
