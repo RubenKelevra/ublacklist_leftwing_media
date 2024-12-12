@@ -1567,3 +1567,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Mint Press News (USA)
 *://*.mintpressnews.com/*
+
+# BlackNews.com (USA)
+*://*.blacknews.com/*
