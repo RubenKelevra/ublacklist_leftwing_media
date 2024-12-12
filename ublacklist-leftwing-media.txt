@@ -1564,3 +1564,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # The Other 98% (USA)
 *://*.other98.com/*
+
+# Mint Press News (USA)
+*://*.mintpressnews.com/*
