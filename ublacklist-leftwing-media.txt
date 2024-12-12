@@ -1582,3 +1582,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Street Roots (USA)
 *://*.streetroots.org/*
+
+# Bossip (USA)
+*://*.bossip.com/*
