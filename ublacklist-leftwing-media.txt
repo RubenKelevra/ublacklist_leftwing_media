@@ -1570,3 +1570,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # BlackNews.com (USA)
 *://*.blacknews.com/*
+
+# ScheerPost (USA)
+*://*.scheerpost.com/*
