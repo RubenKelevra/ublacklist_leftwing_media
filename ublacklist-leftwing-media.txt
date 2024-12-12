@@ -1555,3 +1555,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # San Francisco Public Press (USA)
 *://*.sfpublicpress.org/*
+
+# Texas Signal (USA)
+*://*.texassignal.com/*
