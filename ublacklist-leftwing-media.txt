@@ -1549,3 +1549,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Drop Site News (USA)
 *://*.dropsitenews.com/*
+
+# The Democracy Labs (USA)
+*://*.thedemlabs.org/*
