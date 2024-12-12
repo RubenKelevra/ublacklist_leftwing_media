@@ -1537,3 +1537,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Black Wall Street Times (USA)
 *://*.theblackwallsttimes.com/*
+
+# Civil Eats (USA)
+*://*.civileats.com/*
