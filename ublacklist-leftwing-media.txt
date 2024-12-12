@@ -1534,3 +1534,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Russia vs. World (USA)
 *://*.russiavsworld.org/*
+
+# Black Wall Street Times (USA)
+*://*.theblackwallsttimes.com/*
