@@ -1558,3 +1558,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Texas Signal (USA)
 *://*.texassignal.com/*
+
+# Junge Welt (Germany)
+*://*.jungewelt.de/*
