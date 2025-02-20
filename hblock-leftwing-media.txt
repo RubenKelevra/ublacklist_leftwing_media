@@ -1,0 +1,1463 @@
+# 350.org (USA)
+350.org
+
+# 350Africa.org (USA)
+350africa.org
+
+# 350 Aotearoa (USA)
+350.org.nz
+
+# 350 Asia (USA)
+350asia.org
+
+# 350 Australia (USA)
+350.org.au
+
+# 350 Japan (USA)
+world.350.org
+
+# 350 Pilipinas (USA)
+world.350.org
+
+# 350 Turkiye (USA)
+350turkiye.org
+
+# Accountable.US (USA)
+accountable.us
+
+# ActBlue (USA)
+secure.actblue.com
+
+# Act.TV (USA)
+act.tv
+
+# Action Network (USA)
+actionnetwork.org
+
+# Aftonbladet (Sweden)
+aftonbladet.se
+
+# Alabama Reflector (USA)
+alabamareflector.com
+
+# Alaska Beacon (USA)
+alaskabeacon.com
+
+# Al DIA (USA)
+aldianews.com
+
+# Alliance for Justice (USA)
+afj.org
+
+# Alt News (India)
+altnews.in
+
+# AlterNet (USA)
+alternet.org
+
+# Amandla (South Africa)
+aidc.org.za
+
+# American Bridge 21st Century (USA)
+americanbridgepac.org
+
+# American Oversight (USA)
+americanoversight.org
+
+# Americans United for Separation of Church and State (USA)
+au.org
+
+# Angry White Men (USA)
+angrywhitemen.org
+
+# Anthropocene Alliance (USA)
+anthropocenealliance.org
+
+# Anthropocene Magazine (USA)
+anthropocenemagazine.org
+
+# Arizona Mirror (USA)
+azmirror.com
+
+# Arkansas Advocate (USA)
+arkansasadvocate.com
+
+# Attack The System (USA)
+attackthesystem.com
+
+# AT Advocacy (USA)
+atadvocacy.com
+
+# AutoStraddle (USA)
+autostraddle.com
+
+# Baltimore City Paper (USA)
+baltimoresun.com
+
+# Bay Area Reporter (USA)
+ebar.com
+
+# Being Liberal (USA)
+beingliberal.org
+
+# BerkeleySide (USA)
+berkeleyside.org
+
+# BillMoyers.com (USA)
+billmoyers.com
+
+# Black Agenda Report (USA)
+blackagendareport.com
+
+# Black America Web (USA)
+blackamericaweb.com
+
+# Black Lives Matter (USA)
+blacklivesmatter.com
+
+# Black Main Street (USA)
+blackmainstreet.net
+
+# Boing Boing (USA)
+boingboing.net
+
+# Bolde (USA)
+bolde.com
+
+# Boston Review (USA)
+bostonreview.net
+
+# Breakthrough News (USA)
+breakthroughnews.org
+
+# Briarpatch Magazine (Canada)
+briarpatchmagazine.com
+
+# Brit + Co (USA)
+brit.co
+
+# Brut.Media (France)
+brut.media
+
+# B’Tselem (Israel)
+btselem.org
+
+# Bust Magazine (USA)
+bust.com
+
+# Call to Activism (USA)
+calltoactivism.com
+
+# Canada Fact Check (Canada)
+canadafactcheck.ca
+
+# Canadian Anti-Hate Network (Canada)
+antihate.ca
+
+# Canadian Dimension (Canada)
+canadiandimension.com
+
+# Capital & Main (USA)
+capitalandmain.com
+
+# Capitol News Illinois (USA)
+capitolnewsillinois.com
+
+# Care2 (USA)
+care2.com
+
+# Ceasefire Magazine (UK)
+ceasefiremagazine.co.uk
+
+# Center for American Progress (USA)
+americanprogress.org
+
+# Center for Biological Diversity (USA)
+biologicaldiversity.org
+
+# Center for Law and Social Policy (USA)
+clasp.org
+
+# Center for Media and Democracy (USA)
+prwatch.org
+
+# Center for a Stateless Society (USA)
+c4ss.org
+
+# Change Research (USA)
+changeresearch.com
+
+# Chicago Reader (USA)
+chicagoreader.com
+
+# The Chicago Reporter (USA)
+chicagoreporter.com
+
+# China Internet Information Center (China)
+china.org.cn
+
+# Cincinnati CityBeat (USA)
+citybeat.com
+
+# Citizen Data (USA)
+citizendata.com
+
+# Civiqs (USA)
+civiqs.com
+
+# Cleveland Scene (USA)
+clevescene.com
+
+# CLIMA Fund (USA)
+climasolutions.org
+
+# Climate Home News (UK)
+climatechangenews.com
+
+# Climate Justice Alliance (USA)
+climatejusticealliance.org
+
+# Coda Story (USA)
+codastory.com
+
+# Code Pink (USA)
+codepink.org
+
+# Colorado Newsline (USA)
+coloradonewsline.com
+
+# Colorado Times Recorder (USA)
+coloradotimesrecorder.com
+
+# ColorLines (USA)
+colorlines.com
+
+# Color of Change (USA)
+colorofchange.org
+
+# Columbus Free Press (USA)
+columbusfreepress.com
+
+# Comic Sands (USA)
+comicsands.com
+
+# Common Dreams (USA)
+commondreams.org
+
+# Commune Magazine (USA)
+communemag.com
+
+# Communist Party USA (USA)
+cpusa.org
+
+# CommonWealth Beacon (USA)
+commonwealthbeacon.org
+
+# Consortium News (USA)
+consortiumnews.com
+
+# Cop Block (USA)
+copblock.org
+
+# Cosmopolitan (USA)
+cosmopolitan.com
+cosmopolitan.de
+
+# CounterCurrents.org (India)
+countercurrents.org
+
+# CounterFire (UK)
+counterfire.org
+
+# CounterPunch (USA)
+counterpunch.org
+
+# CounterVortex (USA)
+countervortex.org
+
+# Crikey (Australia)
+crikey.com.au
+
+# CrimethInc (USA)
+crimethinc.com
+
+# Crooked Media (USA)
+crooked.com
+
+# Crooks and Liars (USA)
+crooksandliars.com
+
+# Current Affairs Magazine (USA)
+currentaffairs.org
+
+# Curve Magazine (USA)
+curvemag.com
+
+# Daily Beast (USA)
+thedailybeast.com
+
+# Daily Dot (USA)
+dailydot.com
+
+# Daily Kos (USA)
+dailykos.com
+
+# Daily Montanan (USA)
+dailymontanan.com
+
+# Daily News Bin (Unknown)
+dailynewsbin.com
+
+# Daily Record (UK)
+dailyrecord.co.uk
+
+# Daily Sound and Fury (USA)
+dailysoundandfury.com
+
+# Dallas Voice (USA)
+dallasvoice.com
+
+# Dame Magazine (USA)
+damemagazine.com
+
+# DavidPakman.com (USA)
+davidpakman.com
+
+# DeadState (USA)
+deadstate.org
+
+# Deadspin (USA)
+deadspin.com
+
+# Defend Democracy Press (Greece)
+defenddemocracy.press
+
+# Democracy Chronicles (USA)
+democracychronicles.org
+
+# Democracy Docket (USA)
+democracydocket.com
+
+# Democracy Guardian (USA)
+democracyguardian.com
+
+# Democracy Journal (USA)
+democracyjournal.org
+
+# Democracy Now (USA)
+democracynow.org
+
+# Democratic Underground (USA)
+democraticunderground.com
+
+# Deshabhimani (India)
+deshabhimani.com
+
+# DeSmogBlog (Canada)
+desmog.com
+
+# Detroit Metro Times (USA)
+metrotimes.com
+
+# Dissent Magazine (USA)
+dissentmagazine.org
+
+# Double Down News (UK)
+doubledown.news
+
+# Dream for America (USA)
+dream4america.org
+dreamforamerica.org
+
+# Drudge Retort (USA)
+drudge.com
+
+# Earth First Journal (USA)
+earthfirstjournal.news
+
+# Ecowatch (USA)
+ecowatch.com
+
+# EgbertoWillies (USA)
+egbertowillies.com
+
+# Electoral-Vote.com (Netherlands)
+electoral-vote.com
+
+# Electronic Intifada (USA)
+electronicintifada.net
+
+# Elite Daily (USA)
+elitedaily.com
+
+# ELLE Magazine (USA)
+elle.com
+
+# Erin in the Morning (USA)
+erininthemorning.com
+
+# Esquire Magazine (USA)
+esquire.com
+
+# Euro-Med Human Rights Monitor (Switzerland)
+euromedmonitor.org
+
+# Everyday Feminism (USA)
+everydayfeminism.com
+
+# Evonomics (USA)
+evonomics.com
+
+# Exposed by CMD (USA)
+exposedbycmd.org
+
+# FairPlanet (Germany)
+fairplanet.org
+
+# Feminist Current (Canada)
+feministcurrent.com
+
+# Fifth Estate (USA)
+fifthestate.org
+
+# Finnish News (Finland)
+finnishnews.fi
+
+# Florida Phoenix (USA)
+floridaphoenix.com
+
+# Food and Water Watch (USA)
+foodandwaterwatch.org
+
+# Foreign Policy Journal (USA)
+foreignpolicyjournal.com
+
+# Foreign Policy News (USA)
+foreignpolicynews.org
+
+# FreePress.org (USA)
+freepress.org
+
+# Freedom From Religion Foundation (USA)
+ffrf.org
+
+# Freedom News and Journal (UK)
+freedomnews.org.uk
+
+# Front Page Live (USA)
+frontpageslive.com
+
+# FStv (USA)
+freespeech.org
+
+# Future Forward USA PAC (USA)
+futureforwardusa.org
+
+# Gawker (USA)
+gawker.com
+
+# Gay City News (USA)
+gaycitynews.com
+
+# Gay Star News (UK)
+gaystarnews.com
+
+# Gay Times (UK)
+gaytimes.co.uk
+gaytimes.com
+
+# Geopolitics Alert (USA)
+geopoliticsalert.com
+
+# Georgia Recorder (USA)
+georgiarecorder.com
+
+# Giffords Law Center to Prevent Gun Violence (USA)
+giffords.org
+
+# Gizmodo (USA)
+gizmodo.com
+
+# GLAAD (USA)
+glaad.org
+
+# Global Voices (USA)
+globalvoices.org
+
+# Good Magazine (USA)
+good.is
+
+# GQ Magazine (USA)
+gq.com
+
+# Grasping Reality With Both Hands: Bradford DeLong (USA)
+bradford-delong.com
+
+# Green Left Weekly (Australia)
+greenleft.org.au
+
+# Greenlining Institute (USA)
+greenlining.org
+
+# Guardian Liberty Voice (USA)
+guardianlv.com
+
+# Haaretz (Israel)
+haaretz.com
+
+# Harper’s Bazaar (USA)
+harpersbazaar.com
+
+# Harvard International Review (USA)
+hir.harvard.edu
+
+# High Times (USA)
+hightimes.com
+
+# Hill Reporter (USA)
+hillreporter.com
+
+# Hope Not Hate (UK)
+hopenothate.org.uk
+
+# Huffington Post (USA)
+huffpost.com
+
+# Human Rights Campaign (USA)
+hrc.org
+
+# Idaho Capital Sun (USA)
+idahocapitalsun.com
+
+# In Defence of Marxism (UK)
+marxist.com
+
+# In These Times (USA)
+inthesetimes.com
+
+# The Independent Florida Alligator (USA)
+alligator.org
+
+# Indivisible Movement (USA)
+indivisible.org
+
+# Inequality Media (USA)
+inequalitymedia.org
+
+# Informed Comment (USA)
+juancole.com
+
+# Inkstick Media (USA)
+inkstickmedia.com
+
+# Institute for New Economic Thinking (USA)
+ineteconomics.org
+
+# Institute for Policy Studies (USA)
+ips-dc.org
+
+# International Policy Digest (USA)
+intpolicydigest.org
+
+# International Socialism Journal (UK)
+isj.org.uk
+
+# International Viewpoint (UK)
+internationalviewpoint.org
+
+# Intrepid Report (USA)
+intrepidreport.com
+
+# Iowa Capital Dispatch (USA)
+iowacapitaldispatch.com
+
+# Iowa Starting Line (USA)
+iowastartingline.com
+
+# It’s Going Down (USA)
+itsgoingdown.org
+
+# Jacobin (USA)
+jacobin.com
+
+# Jewish Currents (USA)
+jewishcurrents.org
+
+# Jewish Voice for Peace (USA)
+jewishvoiceforpeace.org
+
+# Jezebel (USA)
+jezebel.com
+
+# JoeBiden.com (USA)
+actblue.com
+joebiden.com
+
+# Junkee (Australia)
+junkee.com
+
+# Kansas Reflector (USA)
+kansasreflector.com
+
+# Kentucky Lantern (USA)
+kentuckylantern.com
+
+# Knock-LA (USA)
+knock-la.com
+
+# Lavender Magazine (USA)
+lavendermagazine.com
+
+# LA Weekly (USA)
+laweekly.com
+
+# The League of Conservation Voters (USA)
+lcv.org
+
+# Left Foot Forward (UK)
+leftfootforward.org
+
+# Left Voice (USA)
+leftvoice.org
+
+# Legal Reader (USA)
+legalreader.com
+
+# Le Média (France)
+lemediatv.fr
+
+# Le Monde Diplomatique (France)
+monde-diplomatique.fr
+
+# LEO Weekly (USA)
+leoweekly.com
+
+# LGBTQ Nation (USA)
+lgbtqnation.com
+
+# Libcom.org (USA)
+libcom.org
+
+# Liberal America (USA)
+liberalamerica.org
+
+# Liberation News (USA)
+liberationnews.org
+
+# Little Green Footballs (USA)
+littlegreenfootballs.com
+
+# Louisiana Illuminator (USA)
+lailluminator.com
+
+# Mail & Guardian (South Africa)
+mg.co.za
+
+# Maine Beacon (USA)
+mainebeacon.com
+
+# Maine Morning Star (USA)
+mainemorningstar.com
+
+# Movement Advancement Project (USA)
+mapresearch.org
+
+# Marxists Internet Archive (USA)
+marxists.org
+
+# Mashable (USA)
+mashable.com
+
+# Media Matters (USA)
+mediamatters.org
+
+# Mediaite (USA)
+mediaite.com
+
+# Meduza (Latvia)
+meduza.io
+
+# MeidasTouch (USA)
+meidasnews.com
+meidastouch.com
+
+# Metro Weekly (USA)
+metroweekly.com
+
+# Merry Jane (USA)
+merryjane.com
+
+# Miami New Times (USA)
+miaminewtimes.com
+
+# Michigan Advance (USA)
+michiganadvance.com
+
+# Middle East Monitor (USA)
+middleeastmonitor.com
+
+# Middletown Media (USA)
+muncievoice.com
+
+# Milwaukee Independent (USA)
+milwaukeeindependent.com
+
+# Minnesota Reformer (USA)
+minnesotareformer.com
+
+# Mississippi Free Press (USA)
+mississippifreepress.org
+
+# Missouri Independent (USA)
+missouriindependent.com
+
+# Modern Liberals (USA)
+modernliberals.com
+
+# Monthly Review (USA)
+monthlyreview.org
+
+# MR Online (USA)
+mronline.org
+
+# Ms. Magazine (USA)
+msmagazine.com
+
+# MSNBC (USA)
+msnbc.com
+
+# Nation of Change (USA)
+nationofchange.org
+
+# National Association for the Advancement of Colored People (USA)
+naacp.org
+
+# National Democratic Training Committee (USA)
+traindemocrats.org
+
+# National Immigration Law Center (USA)
+nilc.org
+
+# National Organization for Women (USA)
+now.org
+
+# National Women’s Law Center (USA)
+nwlc.org
+
+# Natural Resources Defense Council (USA)
+nrdc.org
+
+# NC Newsline (USA)
+ncnewsline.com
+
+# Nebraska Examiner (USA)
+nebraskaexaminer.com
+
+# Neues Deutschland (Germany)
+nd-aktuell.de
+
+# Nevada Current (USA)
+nevadacurrent.com
+
+# New Internationalist (UK)
+newint.org
+
+# New Jersey Monitor (USA)
+newjerseymonitor.com
+
+# New Politics Magazine (USA)
+newpol.org
+
+# New Republic (USA)
+newrepublic.com
+
+# New Statesman (UK)
+newstatesman.com
+
+# New York Amsterdam News (USA)
+amsterdamnews.com
+
+# New York Focus (USA)
+nysfocus.com
+
+# New York Magazine (USA)
+nymag.com
+
+# New Yorker (USA)
+newyorker.com
+
+# NewsClick (India)
+newsclick.in
+
+# News Corpse (USA)
+newscorpse.com
+
+# News from the States (USA)
+newsfromthestates.com
+
+# NewsHounds (USA)
+newshounds.us
+
+# NewsOne (USA)
+newsone.com
+
+# Nonprofit Quarterly (USA)
+nonprofitquarterly.org
+
+# North Dakota Monitor (USA)
+northdakotamonitor.com
+
+# Novara Media (UK)
+novaramedia.com
+
+# Now Magazine (Canada)
+nowtoronto.com
+
+# Oaklandside (USA)
+oaklandside.org
+
+# Occupy.com (USA)
+occupy.com
+
+# Ohio Capital-Journal (USA)
+ohiocapitaljournal.com
+
+# Oklahoma Voice (USA)
+oklahomavoice.com
+
+# OKO.Press (Poland)
+oko.press
+
+# One Green Planet (USA)
+onegreenplanet.org
+
+# OpEdNews (USA)
+opednews.com
+
+# Open Society Foundations (USA)
+opensocietyfoundations.org
+
+# Oregon Capital Chronicle (USA)
+oregoncapitalchronicle.com
+
+# Orlando Weekly (USA)
+orlandoweekly.com
+
+# Out Magazine (USA)
+out.com
+
+# Oxfam America (USA)
+oxfamamerica.org
+
+# PNN (Palestine)
+english.pnn.ps
+
+# Palestinian Information Center (Palestine)
+english.palinfo.com
+
+# Palmer Report (USA)
+palmerreport.com
+
+# Paste Magazine (USA)
+pastemagazine.com
+
+# Pennsylvania Capital-Star (USA)
+penncapital-star.com
+
+# People for the American Way (USA)
+peoplefor.org
+pfaw.org
+
+# People Magazine (USA)
+people.com
+
+# People’s Policy Project (USA)
+peoplespolicyproject.org
+
+# People’s World (USA)
+peoplesworld.org
+
+# Physicians for a National Health Program (USA)
+pnhp.org
+
+# PINAC (USA)
+pinacnews.com
+
+# PinkNews (UK)
+thepinknews.com
+
+# Political Research Associates (USA)
+politicalresearch.org
+
+# Political Tribune (USA)
+polinews.org
+
+# PoliticusUSA (USA)
+politicususa.com
+
+# Politizoom (USA)
+politizoom.com
+
+# Popular Information (USA)
+popular.info
+
+# Popular Resistance (USA)
+popularresistance.org
+
+# Portside (USA)
+portside.org
+
+# Post Carbon Institute (USA)
+postcarbon.org
+
+# Press Progress (Canada)
+pressprogress.ca
+
+# Press Watch (USA)
+presswatchers.org
+
+# Pride Source (USA)
+pridesource.com
+
+# Prism (USA)
+prismreports.org
+
+# Progressive Change Campaign Committee (USA)
+boldprogressives.org
+
+# Project Censored (USA)
+projectcensored.org
+
+# Psyche (Australia)
+psyche.co
+
+# LittleSis.org (USA)
+littlesis.org
+
+# Queerty (USA)
+queerty.com
+
+# Rabble.ca (Canada)
+rabble.ca
+
+# Raw Story (USA)
+rawstory.com
+
+# Reader Supported News (USA)
+rsn.org
+
+# Reading the Pictures (USA)
+readingthepictures.org
+
+# Real News Network (USA)
+therealnews.com
+
+# Red Pepper (UK)
+redpepper.org.uk
+
+# Refinery29 (USA)
+refinery29.com
+
+# Republic Report (USA)
+republicreport.org
+
+# Resilience (USA)
+resilience.org
+
+# Resolute Square (USA)
+resolutesquare.com
+
+# Revcom.us (USA)
+revcom.us
+
+# Revolutionary Communists of America (USA)
+communistusa.org
+
+# Rewire News Group (USA)
+rewirenewsgroup.com
+
+# Rhode Island Current (USA)
+rhodeislandcurrent.com
+
+# Right Wing Watch (USA)
+rightwingwatch.org
+
+# Ring of Fire (USA)
+trofire.com
+
+# Rolling Stone (USA)
+rollingstone.com
+
+# Salon (USA)
+salon.com
+
+# San Antonio Current (USA)
+sacurrent.com
+
+# San Francisco Bay View (USA)
+sfbayview.com
+
+# Scary Mommy (USA)
+scarymommy.com
+
+# Second Nexus (USA)
+comicsands.com
+secondnexus.com
+
+# Seventeen (USA)
+seventeen.com
+
+# Shadow Proof (USA)
+shadowproof.com
+
+# Shondaland (USA)
+shondaland.com
+
+# Slate (USA)
+slate.com
+
+# Sludge (USA)
+readsludge.com
+
+# Smirking Chimp (USA)
+smirkingchimp.com
+
+# Socialist Standard (UK)
+worldsocialism.org
+
+# SocialistWorker.org (USA)
+socialistworker.org
+
+# Source New Mexico (USA)
+sourcenm.com
+
+# SourceWatch (USA)
+sourcewatch.org
+
+# South Carolina Daily Gazette (USA)
+scdailygazette.com
+
+# South Dakota Searchlight (USA)
+southdakotasearchlight.com
+
+# Southern Poverty Law Center (USA)
+splcenter.org
+
+# Spotlight Delaware (USA)
+spotlightdelaware.org
+
+# St. Louis Riverfront Times (USA)
+riverfronttimes.com
+
+# St. Pete for Peace (USA)
+stpete4peace.org
+
+# Stateline (USA)
+stateline.org
+
+# Sunrise Movement (USA)
+sunrisemovement.org
+
+# Talking Points Memo (USA)
+talkingpointsmemo.com
+
+# Teen Vogue (USA)
+teenvogue.com
+
+# Tennessee Holler (USA)
+tnholler.com
+
+# Tennessee Lookout (USA)
+tennesseelookout.com
+
+# The 19th News (USA)
+19thnews.org
+
+# The Advocate (USA)
+advocate.com
+
+# The American Independent (USA)
+americanindependent.com
+
+# The American Prospect (USA)
+prospect.org
+
+# The Austin Chronicle (USA)
+austinchronicle.com
+
+# The Baffler (USA)
+thebaffler.com
+
+# The Breach (Canada)
+breachmedia.ca
+
+# The Burning Spear (USA)
+theburningspear.com
+
+# The Canary (UK)
+thecanary.co
+
+# The Climate Reality Project (USA)
+climaterealityproject.org
+
+# The Cradle (USA)
+thecradle.co
+
+# The Cut (USA)
+thecut.com
+
+# Daily 49er (USA)
+daily49er.com
+lbcurrent.com
+
+# The Daily Banter (USA)
+thedailybanter.com
+thedailybantercom.wpcomstaging.com
+
+# The Daily Buzz (USA)
+the-daily.buzz
+
+# The Daily Vox (South Africa)
+thedailyvox.co.za
+
+# The Democratic Hub (USA)
+democratichub.com
+
+# The Dodo (USA)
+thedodo.com
+
+# The Dworkin Report (USA)
+dworkinreport.com
+
+# The Florida Squeeze (USA)
+thefloridasqueeze.com
+
+# The Gaily Grind (USA)
+thegailygrind.com
+
+# The  Center (USA)
+gaycenter.org
+
+# The Good Men Project (USA)
+goodmenproject.com
+
+# The Gravel Institute (USA)
+gravelinstitute.org
+
+# The Immigrant Legal Resource Center (USA)
+ilrc.org
+
+# The Indypendent (USA)
+indypendent.org
+
+# The Intellectualist (USA)
+mavenroundtable.io
+
+# The Lever (USA)
+levernews.com
+
+# The Lily (USA)
+thelily.com
+
+# The London Economic (USA)
+thelondoneconomic.com
+
+# The Maple (Canada)
+readthemaple.com
+
+# The Mary Sue (USA)
+themarysue.com
+
+# The Militant (USA)
+themilitant.com
+
+# The Monthly (Australia)
+themonthly.com.au
+
+# The Morning Star (UK)
+morningstaronline.co.uk
+
+# The Narwhal (Canada)
+thenarwhal.ca
+
+# The Nation (USA)
+thenation.com
+
+# The National Memo (USA)
+nationalmemo.com
+
+# The New Civil Rights Movement (USA)
+thenewcivilrightsmovement.com
+
+# The New European (UK)
+theneweuropean.co.uk
+
+# The New Inquiry (USA)
+thenewinquiry.com
+
+# The Palestine Chronicle (USA)
+palestinechronicle.com
+
+# The People’s Dispatch (Unknown)
+peoplesdispatch.org
+
+# The Phnom Penh Post (Cambodia)
+phnompenhpost.com
+
+# The Progressive (USA)
+progressive.org
+
+# The Progressive Populist (USA)
+populist.com
+
+# The Root (USA)
+theroot.com
+
+# The Sierra Club (USA)
+sierraclub.org
+
+# The Solutions Project (USA)
+thesolutionsproject.org
+
+# The Source Newspaper (Canada)
+thelasource.com
+
+# The Stand (USA)
+thestand.org
+
+# The Straight Dope (USA)
+straightdope.com
+
+# The Stranger (USA)
+thestranger.com
+
+# The Texas Observer (USA)
+texasobserver.org
+
+# The Village Voice (USA)
+villagevoice.com
+
+# The Voice UK (UK)
+voice-online.co.uk
+
+# The Walrus (Canada)
+thewalrus.ca
+
+# The Washington Spectator (USA)
+washingtonspectator.org
+
+# Washington State Standard (USA)
+washingtonstatestandard.com
+
+# The Week (USA)
+theweek.com
+
+# The World Can’t Wait (USA)
+worldcantwait.net
+worldcantwait.org
+
+# TheGrio (USA)
+thegrio.com
+
+# The Zero Hour (USA)
+thisisthezerohour.com
+
+# Them.us (USA)
+them.us
+
+# ThinkPol (Canada)
+thinkpol.ca
+
+# This Magazine (Canada)
+this.org
+
+# Towleroad (USA)
+towleroad.com
+
+# TreeHugger (USA)
+treehugger.com
+
+# Truthdig (USA)
+truthdig.com
+
+# TheTruth.com (USA)
+thetruth.com
+
+# TruthOut (USA)
+truthout.org
+
+# Truth Theory (UK)
+truththeory.com
+
+# Unicorn Riot (USA)
+unicornriot.ninja
+
+# UNRWA (Jordan)
+unrwa.org
+
+# Uproxx (USA)
+uproxx.com
+
+# Upworthy (USA)
+upworthy.com
+
+# URL Media (USA)
+url-media.com
+
+# U.S. Right to Know (USA)
+usrtk.org
+
+# Utah News Dispatch (USA)
+utahnewsdispatch.com
+
+# Vanity Fair (USA)
+vanityfair.com
+
+# Vegan Society (UK)
+vegansociety.com
+
+# Venezuela Analysis (USA)
+venezuelanalysis.com
+
+# Vox (USA)
+vox.com
+
+# Wall Street on Parade (USA)
+wallstreetonparade.com
+
+# Washington Babylon (USA)
+washingtonbabylon.com
+
+# Washington Press (USA)
+washingtonpress.com
+
+# Washingtonian (USA)
+washingtonian.com
+
+# Washington Report on Middle East Affairs (USA)
+wrmea.org
+
+# Wear Your Voice (USA)
+teatroateatro.com
+wearyourvoicemag.com
+
+# We Hunted the Mammoth (USA)
+wehuntedthemammoth.com
+
+# Well+Good (USA)
+wellandgood.com
+
+# West Virginia Watch (USA)
+westvirginiawatch.com
+
+# Who.What.Why (USA)
+whowhatwhy.org
+
+# Wisconsin Examiner (USA)
+wisconsinexaminer.com
+
+# Wonkette (USA)
+wonkette.com
+
+# Workers World (USA)
+workers.org
+
+# World Socialist Web Site (USA)
+wsws.org
+
+# WyoFile (USA)
+wyofile.com
+
+# Xtra Magazine (Canada)
+xtramagazine.com
+
+# Yes Magazine (USA)
+yesmagazine.org
+
+# The Young Turks (USA)
+tyt.com
+
+# Znetwork (USA)
+znetwork.org
+
+# Zona Media (Russia)
+zona.media
+
+# Progressive International (USA)
+progressive.international
+
+# Sanders Institute (USA)
+sandersinstitute.org
+
+# Girls for Gender Equity (USA)
+ggenyc.org
+
+# American Democracy Scorecard (USA)
+americandemocracyscorecard.org
+
+# Sentient Media (USA)
+sentientmedia.org
+
+# Die Tageszeitung - TAZ (Germany)
+taz.de
+
+# Reckon News (USA)
+reckon.news
+
+# Syrian Arab News Agency (Syria)
+sana.sy
+
+# Russia vs. World (USA)
+russiavsworld.org
+
+# Black Wall Street Times (USA)
+theblackwallsttimes.com
+
+# Civil Eats (USA)
+civileats.com
+
+# Planet: Critical (USA)
+planetcritical.com
+
+# Ecoticias (Spain)
+ecoticias.com
+
+# Drop Site News (USA)
+dropsitenews.com
+
+# The Democracy Labs (USA)
+thedemlabs.org
+
+# San Francisco Public Press (USA)
+sfpublicpress.org
+
+# Texas Signal (USA)
+texassignal.com
+
+# Junge Welt (Germany)
+jungewelt.de
+
+# The Other 98% (USA)
+other98.com
+
+# Mint Press News (USA)
+mintpressnews.com
+
+# BlackNews.com (USA)
+blacknews.com
+
+# ScheerPost (USA)
+scheerpost.com
+
+# Shepherd Express (USA)
+shepherdexpress.com
+
+# Heimildin (Iceland)
+heimildin.is
+
+# Street Roots (USA)
+streetroots.org
+
+# Bossip (USA)
+bossip.com
+
