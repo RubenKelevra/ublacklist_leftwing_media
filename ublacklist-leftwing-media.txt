@@ -1588,3 +1588,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Five Minutes News (USA)
 *://*.fiveminute.news/*
+
+# Femalista (USA)
+*://*.femalista.com/*

@@ -1464,3 +1464,6 @@ bossip.com
 # Five Minutes News (USA)
 fiveminute.news
 
+# Femalista (USA)
+femalista.com
+
