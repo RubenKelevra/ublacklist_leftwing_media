@@ -1585,3 +1585,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Bossip (USA)
 *://*.bossip.com/*
+
+# Five Minutes News (USA)
+*://*.fiveminute.news/*
