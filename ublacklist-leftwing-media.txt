@@ -1591,3 +1591,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Femalista (USA)
 *://*.femalista.com/*
+
+# ANF English Mobile (Netherlands)
+*://*.anfenglishmobile.com/*
