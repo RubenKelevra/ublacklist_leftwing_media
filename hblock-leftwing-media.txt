@@ -1476,3 +1476,6 @@ granma.cu
 # Gucmakale.com (USA)
 gucmakale.com
 
+# Climate Cosmos (Germany)
+climatecosmos.com
+
