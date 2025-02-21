@@ -1480,3 +1480,6 @@ gucmakale.com
 # Climate Cosmos (Germany)
 climatecosmos.com
 
+# Mision Verdad (Venezuela)
+misionverdad.com
+

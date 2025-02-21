@@ -1604,3 +1604,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Climate Cosmos (Germany)
 *://*.climatecosmos.com/*
+
+# Mision Verdad (Venezuela)
+*://*.misionverdad.com/*
