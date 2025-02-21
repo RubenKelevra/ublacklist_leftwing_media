@@ -1483,3 +1483,6 @@ climatecosmos.com
 # Mision Verdad (Venezuela)
 misionverdad.com
 
+# Splinter (USA)
+splinter.com
+

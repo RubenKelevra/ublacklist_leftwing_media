@@ -1607,3 +1607,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Mision Verdad (Venezuela)
 *://*.misionverdad.com/*
+
+# Splinter (USA)
+*://*.splinter.com/*
