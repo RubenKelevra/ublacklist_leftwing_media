@@ -1078,6 +1078,7 @@ advocate.com
 
 # The American Independent (USA)
 americanindependent.com
+shareblue.com
 
 # The American Prospect (USA)
 prospect.org
