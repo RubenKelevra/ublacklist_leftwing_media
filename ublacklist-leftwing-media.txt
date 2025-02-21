@@ -1594,3 +1594,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # ANF English Mobile (Netherlands)
 *://*.anfenglishmobile.com/*
+
+# Granma (Cuba)
+*://*.granma.cu/*

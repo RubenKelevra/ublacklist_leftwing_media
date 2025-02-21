@@ -1470,3 +1470,6 @@ femalista.com
 # ANF English Mobile (Netherlands)
 anfenglishmobile.com
 
+# Granma (Cuba)
+granma.cu
+
