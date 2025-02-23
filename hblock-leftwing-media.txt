@@ -1486,3 +1486,6 @@ misionverdad.com
 # Splinter (USA)
 splinter.com
 
+# Heatmap News (USA)
+heatmap.news
+

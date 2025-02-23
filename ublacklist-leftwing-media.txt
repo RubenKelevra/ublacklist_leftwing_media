@@ -1610,3 +1610,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Splinter (USA)
 *://*.splinter.com/*
+
+# Heatmap News (USA)
+*://*.heatmap.news/*
