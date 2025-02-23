@@ -1613,3 +1613,6 @@ homepage: https://github.com/RubenKelevra/ublacklist_leftwing_media
 
 # Heatmap News (USA)
 *://*.heatmap.news/*
+
+# International Middle East Media Center - IMEMC (USA)
+*://*.imemc.org/*
